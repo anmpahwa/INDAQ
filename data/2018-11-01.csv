@@ -1,0 +1,66 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,340,PM2.5,1
+Ahmedabad,Moderate,156,PM2.5,1
+Ajmer,Moderate,154,PM2.5,1
+Alwar,Moderate,117,PM10,1
+Amritsar,Poor,224,PM10,1
+Asanol,Moderate,112,PM2.5,1
+Baghpat,Very Poor,385,PM2.5,1
+Bathinda,Poor,201,PM2.5,1
+Bengaluru,Satisfactory,69,"O3, CO, PM10",9
+Bhiwadi,Poor,296,PM2.5,1
+Brajrajnagar,Satisfactory,57,PM10,1
+Bulandshahr,Very Poor,374,PM2.5,1
+Chandrapur,Satisfactory,64,"O3, PM10",2
+Chennai,Good,48,"CO, PM2.5",3
+Chikkaballapur,Good,47,NO2,1
+Delhi,Very Poor,393,"PM10, PM2.5",28
+Dewas,Moderate,108,PM10,1
+Faridabad,Severe,407,PM2.5,1
+Gaya,Moderate,111,PM2.5,1
+Ghaziabad,Very Poor,377,PM2.5,1
+Greater Noida,Very Poor,391,PM2.5,1
+Gurugram,Severe,427,PM2.5,1
+Haldia,Good,24,PM10,1
+Hapur,Very Poor,375,PM2.5,1
+Howrah,Satisfactory,70,PM10,2
+Hyderabad,Moderate,106,"PM10, PM2.5",6
+Jaipur,Moderate,170,"O3, PM10, PM2.5",3
+Jalandhar,Poor,208,PM2.5,1
+Jodhpur,Very Poor,338,PM2.5,1
+Kanpur,Very Poor,396,PM2.5,1
+Khanna,Moderate,153,PM10,1
+Kolkata,Satisfactory,53,NO2,1
+Kota,Moderate,136,PM2.5,1
+Lucknow,Very Poor,302,"O3, PM2.5",4
+Ludhiana,Moderate,135,PM2.5,1
+Mandi Gobindgarh,Moderate,139,PM10,1
+Mandideep,Moderate,122,PM10,1
+Moradabad,Very Poor,341,PM2.5,1
+Mumbai,Moderate,129,PM10,1
+Muzaffarnagar,Very Poor,342,PM2.5,1
+Muzaffarpur,Moderate,183,PM2.5,1
+Nagpur,Satisfactory,75,PM10,1
+Nashik,Moderate,107,O3,1
+Navi Mumbai,Satisfactory,95,PM10,1
+Noida,Severe,407,PM10,1
+Pali,Moderate,188,PM2.5,1
+Panchkula,Satisfactory,87,PM2.5,1
+Patiala,Moderate,139,PM10,1
+Patna,Poor,282,PM2.5,1
+Pithampur,Moderate,134,PM10,1
+Pune,Moderate,158,PM2.5,1
+Rajamahendravaram,Good,50,O3,1
+Rupnagar,Moderate,120,PM10,1
+Satna,Satisfactory,90,PM10,1
+Siliguri,Satisfactory,88,PM10,1
+Solapur,Satisfactory,96,CO,1
+Talcher,Moderate,102,CO,1
+Thane,Moderate,137,PM10,1
+Thiruvananthapuram,Satisfactory,60,PM2.5,1
+Tirupati,Good,40,NO2,1
+Udaipur,Moderate,163,PM10,1
+Ujjain,Moderate,118,O3,1
+Varanasi,Poor,217,PM10,1
+Vijayawada,Good,49,CO,1
+Visakhapatnam,Good,41,O3,1

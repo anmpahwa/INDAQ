@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Moderate,199,PM2.5,1
+Ahmedabad,Poor,229,PM2.5,1
+Ajmer,Moderate,110,PM10,1
+Alwar,Moderate,143,PM2.5,1
+Amaravati,Good,46,CO,1
+Amritsar,Moderate,120,PM10,1
+Asanol,Moderate,163,PM2.5,1
+Baghpat,Very Poor,344,PM2.5,1
+Bathinda,Moderate,113,PM2.5,1
+Bengaluru,Satisfactory,58,"CO, PM10",7
+Bhiwadi,Very Poor,325,PM10,1
+Bulandshahr,Very Poor,333,PM2.5,1
+Chandrapur,Satisfactory,78,"O3, PM10",2
+Chennai,Good,45,"CO, PM2.5",3
+Chikkaballapur,Good,44,NO2,1
+Delhi,Very Poor,340,"PM10, PM2.5",35
+Dewas,Moderate,153,O3,1
+Durgapur,Moderate,110,PM10,1
+Faridabad,Very Poor,359,PM2.5,1
+Gaya,Moderate,118,PM2.5,1
+Ghaziabad,Very Poor,325,PM2.5,1
+Greater Noida,Very Poor,341,PM2.5,1
+Gurugram,Very Poor,336,PM2.5,1
+Hapur,Very Poor,324,PM2.5,1
+Howrah,Moderate,109,PM10,2
+Hyderabad,Satisfactory,55,"NO2, PM10",6
+Jaipur,Moderate,112,"NO2, PM10, PM2.5",3
+Jalandhar,Moderate,115,PM2.5,1
+Jodhpur,Very Poor,340,PM2.5,1
+Jorapokhar,Poor,248,PM10,1
+Kanpur,Severe,401,PM2.5,1
+Khanna,Satisfactory,92,PM10,1
+Kolkata,Satisfactory,71,PM10,1
+Kota,Moderate,118,PM10,1
+Lucknow,Very Poor,336,PM2.5,4
+Ludhiana,Satisfactory,52,PM10,1
+Mandi Gobindgarh,Moderate,107,PM10,1
+Mandideep,Poor,210,PM10,1
+Moradabad,Poor,281,PM2.5,1
+Mumbai,Satisfactory,98,PM10,1
+Muzaffarnagar,Poor,258,PM2.5,1
+Muzaffarpur,Very Poor,313,PM2.5,1
+Nagpur,Satisfactory,96,PM10,1
+Nashik,Satisfactory,84,O3,1
+Noida,Very Poor,333,PM2.5,2
+Pali,Moderate,175,PM10,1
+Panchkula,Satisfactory,64,PM2.5,1
+Patiala,Moderate,110,PM2.5,1
+Patna,Poor,289,PM2.5,1
+Pithampur,Moderate,129,PM2.5,1
+Pune,Moderate,118,PM2.5,1
+Rajamahendravaram,Satisfactory,57,CO,1
+Rohtak,Poor,288,PM2.5,1
+Satna,Moderate,101,PM10,1
+Siliguri,Moderate,101,PM10,1
+Singrauli,Poor,213,PM10,1
+Solapur,Satisfactory,95,CO,1
+Talcher,Moderate,180,PM10,1
+Thane,Satisfactory,87,PM10,1
+Thiruvananthapuram,Satisfactory,60,CO,1
+Tirupati,Good,41,O3,1
+Udaipur,Moderate,156,PM10,1
+Ujjain,Moderate,193,PM2.5,1
+Varanasi,Poor,237,PM10,1
+Vijayawada,Satisfactory,52,PM10,1
+Visakhapatnam,Good,33,O3,1

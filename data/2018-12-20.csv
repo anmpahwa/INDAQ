@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,390,PM2.5,1
+Ahmedabad,Poor,245,PM2.5,1
+Ajmer,Moderate,111,PM10,1
+Alwar,Moderate,111,PM10,1
+Amritsar,Moderate,130,PM10,1
+Asanol,Poor,237,PM2.5,1
+Aurangabad,Satisfactory,83,PM10,1
+Baghpat,Very Poor,373,PM2.5,1
+Bathinda,Satisfactory,93,PM10,1
+Bengaluru,Moderate,142,"O3, PM10",7
+Bhiwadi,Very Poor,324,PM2.5,1
+Brajrajnagar,Moderate,161,PM2.5,1
+Bulandshahr,Very Poor,396,PM2.5,1
+Chandrapur,Satisfactory,99,"NO2, PM10",2
+Chennai,Satisfactory,70,"O3, CO, PM2.5",3
+Chikkaballapur,Satisfactory,66,PM10,1
+Delhi,Very Poor,394,"PM10, PM2.5",37
+Dewas,Moderate,167,O3,1
+Durgapur,Moderate,133,PM10,1
+Faridabad,Very Poor,357,PM2.5,1
+Gaya,Very Poor,316,PM2.5,1
+Ghaziabad,Severe,421,PM2.5,1
+Greater Noida,Very Poor,396,PM2.5,1
+Gurugram,Poor,280,PM2.5,2
+Haldia,Moderate,107,PM10,1
+Howrah,Poor,222,PM2.5,2
+Hubballi,Satisfactory,57,PM10,1
+Hyderabad,Satisfactory,78,"PM10, PM2.5",6
+Jaipur,Poor,204,"PM10, PM2.5",3
+Jalandhar,Moderate,113,PM2.5,1
+Jodhpur,Poor,277,PM2.5,1
+Jorapokhar,Very Poor,360,PM10,1
+Kanpur,Very Poor,375,PM2.5,1
+Khanna,Moderate,109,PM10,1
+Kolkata,Poor,244,PM2.5,2
+Kota,Moderate,127,PM2.5,1
+Lucknow,Very Poor,348,PM2.5,4
+Ludhiana,Moderate,133,PM10,1
+Mandi Gobindgarh,Moderate,189,PM10,1
+Mandideep,Poor,252,PM2.5,1
+Manesar,Poor,233,PM2.5,1
+Moradabad,Severe,430,PM2.5,1
+Mumbai,Moderate,125,PM10,1
+Muzaffarnagar,Very Poor,388,PM2.5,1
+Muzaffarpur,Severe,414,PM2.5,1
+Nagpur,Moderate,132,PM2.5,1
+Nashik,Moderate,157,O3,1
+Noida,Severe,404,PM2.5,2
+Pali,Satisfactory,95,PM10,1
+Panchkula,Moderate,108,PM2.5,1
+Patiala,Poor,206,PM2.5,1
+Pithampur,Moderate,198,PM2.5,1
+Pune,Moderate,184,PM2.5,1
+Rohtak,Moderate,197,PM2.5,1
+Rupnagar,Moderate,140,PM2.5,1
+Satna,Moderate,185,PM10,1
+Siliguri,Poor,232,PM2.5,1
+Singrauli,Very Poor,303,PM2.5,1
+Thane,Moderate,140,PM10,1
+Thiruvananthapuram,Moderate,152,PM2.5,1
+Tirupati,Satisfactory,79,NO2,1
+Udaipur,Poor,217,PM10,1
+Ujjain,Poor,266,PM2.5,1
+Varanasi,Very Poor,349,PM2.5,1
+Vijayawada,Satisfactory,58,PM10,1
+Visakhapatnam,Good,42,O3,1

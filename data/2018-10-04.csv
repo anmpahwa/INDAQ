@@ -1,0 +1,69 @@
+city,level,index,pollutant,stations
+Agra,Satisfactory,77,O3,1
+Ahmedabad,Moderate,139,O3,1
+Ajmer,Moderate,128,PM10,1
+Alwar,Satisfactory,62,PM10,1
+Amritsar,Satisfactory,94,PM10,1
+Asanol,Moderate,139,PM2.5,1
+Aurangabad,Satisfactory,75,PM10,1
+Baghpat,Poor,231,PM2.5,1
+Bathinda,Moderate,101,PM10,1
+Bengaluru,Good,49,"CO, PM10, PM2.5",9
+Bhiwadi,Poor,298,PM10,1
+Bulandshahr,Moderate,167,PM2.5,1
+Chandrapur,Moderate,118,PM10,2
+Chennai,Satisfactory,61,"CO, PM2.5",3
+Chikkaballapur,Good,47,NO2,1
+Delhi,Poor,201,"PM10, PM2.5",35
+Dewas,Moderate,126,PM10,1
+Durgapur,Moderate,113,PM10,1
+Faridabad,Poor,206,PM2.5,1
+Gaya,Moderate,122,NO2,1
+Ghaziabad,Poor,248,PM2.5,1
+Greater Noida,Poor,202,PM10,1
+Gurgaon,Poor,292,PM2.5,1
+Haldia,Moderate,132,PM10,1
+Howrah,Moderate,162,"PM10, PM2.5",2
+Hubballi,Satisfactory,78,PM10,1
+Hyderabad,Satisfactory,82,"NO2, PM10, PM2.5",6
+Jaipur,Satisfactory,88,PM10,3
+Jalandhar,Satisfactory,83,PM2.5,1
+Jodhpur,Moderate,155,PM2.5,1
+Jorapokhar,Poor,232,PM10,1
+Kanpur,Moderate,127,PM2.5,1
+Khanna,Satisfactory,98,PM10,1
+Kolkata,Moderate,159,PM2.5,1
+Kota,Moderate,104,PM10,1
+Lucknow,Poor,240,PM2.5,4
+Ludhiana,Satisfactory,66,SO2,1
+Mandi Gobindgarh,Satisfactory,57,CO,1
+Mandideep,Moderate,142,PM10,1
+Moradabad,Poor,239,PM2.5,1
+Mumbai,Satisfactory,98,PM10,1
+Muzaffarnagar,Poor,213,PM2.5,1
+Muzaffarpur,Moderate,192,PM2.5,1
+Nagpur,Satisfactory,98,PM10,1
+Nashik,Satisfactory,80,O3,1
+Navi Mumbai,Satisfactory,81,PM10,1
+Noida,Poor,257,"PM10, PM2.5",2
+Pali,Satisfactory,96,PM10,1
+Panchkula,Moderate,162,O3,1
+Patiala,Satisfactory,80,PM10,1
+Patna,Poor,241,PM2.5,1
+Pithampur,Moderate,163,PM2.5,1
+Pune,Satisfactory,78,PM10,1
+Rajamahendravaram,Satisfactory,57,O3,1
+Rohtak,Satisfactory,65,PM2.5,1
+Rupnagar,Satisfactory,88,PM10,1
+Satna,Moderate,141,PM10,1
+Siliguri,Satisfactory,77,PM10,1
+Singrauli,Poor,216,PM10,1
+Solapur,Satisfactory,78,CO,1
+Thane,Satisfactory,94,PM10,1
+Thiruvananthapuram,Good,44,CO,1
+Tirupati,Good,31,NO2,1
+Udaipur,Moderate,103,PM10,1
+Ujjain,Moderate,168,O3,1
+Varanasi,Poor,202,O3,1
+Vijayawada,Good,47,PM10,1
+Visakhapatnam,Moderate,118,PM10,1

@@ -1,0 +1,71 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,375,PM2.5,1
+Ahmedabad,Poor,222,PM2.5,1
+Ajmer,Moderate,162,PM2.5,1
+Alwar,Moderate,113,PM2.5,1
+Amaravati,Satisfactory,76,PM10,1
+Amritsar,Moderate,108,PM10,1
+Asanol,Poor,291,PM2.5,1
+Aurangabad,Moderate,102,PM10,1
+Baghpat,Very Poor,361,PM2.5,1
+Bathinda,Moderate,121,PM10,1
+Bengaluru,Moderate,130,"O3, PM10",8
+Bhiwadi,Severe,406,PM10,1
+Brajrajnagar,Moderate,195,PM2.5,1
+Bulandshahr,Severe,422,PM2.5,1
+Chandrapur,Moderate,113,PM10,1
+Chennai,Satisfactory,76,"O3, PM2.5",3
+Chikkaballapur,Satisfactory,66,PM10,1
+Delhi,Very Poor,386,PM2.5,36
+Dewas,Moderate,126,O3,1
+Durgapur,Moderate,171,PM10,1
+Faridabad,Very Poor,370,PM2.5,1
+Gaya,Very Poor,344,PM2.5,1
+Ghaziabad,Severe,407,PM2.5,1
+Greater Noida,Severe,407,PM2.5,1
+Gurugram,Poor,223,PM2.5,1
+Haldia,Moderate,139,PM10,1
+Howrah,Very Poor,316,PM2.5,2
+Hubballi,Satisfactory,83,PM10,1
+Hyderabad,Moderate,108,"PM10, PM2.5",5
+Jaipur,Poor,212,PM2.5,3
+Jalandhar,Satisfactory,73,PM2.5,1
+Jodhpur,Poor,238,PM2.5,1
+Jorapokhar,Very Poor,317,PM10,1
+Kanpur,Very Poor,366,PM2.5,1
+Khanna,Moderate,119,PM10,1
+Kolkata,Very Poor,332,PM2.5,2
+Kota,Moderate,187,PM2.5,1
+Lucknow,Very Poor,336,PM2.5,4
+Ludhiana,Moderate,124,PM10,1
+Mandi Gobindgarh,Poor,240,PM2.5,1
+Mandideep,Moderate,190,PM2.5,1
+Manesar,Poor,268,PM2.5,1
+Moradabad,Very Poor,363,PM2.5,1
+Mumbai,Moderate,115,PM10,1
+Muzaffarnagar,Very Poor,361,PM2.5,1
+Muzaffarpur,Severe,437,PM2.5,1
+Nagpur,Moderate,140,PM2.5,1
+Nashik,Moderate,198,O3,1
+Navi Mumbai,Moderate,115,CO,1
+Noida,Very Poor,394,PM2.5,2
+Pali,Moderate,112,PM10,1
+Panchkula,Moderate,151,PM2.5,1
+Patiala,Moderate,158,PM2.5,1
+Patna,Severe,456,PM2.5,1
+Pithampur,Moderate,116,PM10,1
+Pune,Moderate,178,PM2.5,1
+Rohtak,Moderate,121,PM2.5,1
+Rupnagar,Moderate,144,PM10,1
+Satna,Moderate,146,PM10,1
+Siliguri,Moderate,138,PM2.5,1
+Singrauli,Very Poor,338,PM2.5,1
+Solapur,Moderate,142,PM10,1
+Thane,Moderate,123,PM10,1
+Thiruvananthapuram,Moderate,139,PM2.5,1
+Tirupati,Satisfactory,63,PM10,1
+Udaipur,Moderate,193,PM10,1
+Ujjain,Poor,212,PM2.5,1
+Varanasi,Very Poor,378,PM2.5,1
+Vijayawada,Satisfactory,65,PM10,1
+Visakhapatnam,Satisfactory,76,PM10,1

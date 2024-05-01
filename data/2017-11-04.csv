@@ -1,0 +1,46 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,357,PM2.5,1
+Ajmer,Moderate,139,PM10,1
+Alwar,Poor,221,PM10,1
+Amritsar,Poor,274,PM2.5,1
+Aurangabad,Moderate,111,O3,1
+Bengaluru,Satisfactory,100,"O3, PM2.5",4
+Bhiwadi,Very Poor,369,PM2.5,1
+Chandrapur,Satisfactory,99,PM10,1
+Chennai,Satisfactory,52,"CO, PM2.5",3
+Delhi,Very Poor,351,PM2.5,16
+Durgapur,Moderate,105,PM10,1
+Faridabad,Very Poor,323,PM2.5,1
+Ghaziabad,Very Poor,396,PM2.5,1
+Gurgaon,Very Poor,338,PM2.5,1
+Haldia,Satisfactory,89,PM10,1
+Howrah,Severe,451,O3,1
+Hyderabad,Moderate,103,"PM10, PM2.5",6
+Jaipur,Poor,214,"PM10, PM2.5",2
+Jodhpur,Poor,297,PM2.5,1
+Kanpur,Very Poor,371,PM2.5,1
+Kota,Poor,218,PM2.5,1
+Lucknow,Very Poor,359,PM2.5,3
+Ludhiana,Very Poor,321,PM2.5,1
+Mandi Gobindgarh,Poor,286,PM2.5,1
+Moradabad,Very Poor,384,PM2.5,1
+Mumbai,Moderate,122,PM10,1
+Muzaffarpur,Poor,231,PM2.5,1
+Nagpur,Moderate,144,PM2.5,1
+Nashik,Moderate,167,O3,1
+Navi Mumbai,Satisfactory,88,PM10,1
+Noida,Very Poor,365,PM2.5,2
+Pali,Moderate,139,PM10,1
+Panchkula,Poor,230,PM2.5,1
+Patna,Poor,282,PM2.5,1
+Pune,Moderate,101,PM10,1
+Rajamahendravara,Satisfactory,94,O3,1
+Rohtak,Poor,300,PM2.5,1
+Solapur,Moderate,112,PM10,1
+Thane,Moderate,113,CO,1
+Thiruvananthapuram,Satisfactory,70,CO,1
+Tirupati,Satisfactory,65,PM10,1
+Udaipur,Moderate,179,PM2.5,1
+Varanasi,Poor,223,PM2.5,1
+Vijayawada,Satisfactory,82,PM10,1
+Visakhapatnam,Satisfactory,72,PM10,1

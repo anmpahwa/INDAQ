@@ -1,0 +1,66 @@
+city,level,index,pollutant,stations
+Agra,Moderate,199,O3,1
+Ahmedabad,Moderate,164,PM2.5,1
+Ajmer,Moderate,111,PM10,1
+Alwar,Satisfactory,60,PM10,1
+Amaravati,Satisfactory,87,PM10,1
+Amritsar,Satisfactory,83,PM10,1
+Asanol,Moderate,135,PM2.5,1
+Baghpat,Moderate,192,PM2.5,1
+Bathinda,Satisfactory,86,PM10,1
+Bengaluru,Good,41,"CO, PM10",7
+Bulandshahr,Poor,216,PM2.5,1
+Chandrapur,Moderate,108,PM10,2
+Chennai,Good,48,CO,2
+Chikkaballapur,Good,44,NO2,1
+Delhi,Poor,209,"PM10, PM2.5",35
+Dewas,Moderate,111,PM2.5,1
+Durgapur,Moderate,101,PM10,1
+Faridabad,Poor,247,PM2.5,1
+Gaya,Moderate,125,PM2.5,1
+Greater Noida,Poor,242,PM10,1
+Gurgaon,Very Poor,330,PM2.5,1
+Haldia,Moderate,131,PM10,1
+Howrah,Moderate,200,"PM10, PM2.5",2
+Hubballi,Satisfactory,66,PM10,1
+Hyderabad,Moderate,116,"PM10, PM2.5",6
+Jaipur,Moderate,101,PM10,3
+Jalandhar,Satisfactory,63,PM2.5,1
+Jodhpur,Poor,207,PM2.5,1
+Jorapokhar,Very Poor,312,PM10,1
+Kanpur,Moderate,167,PM2.5,1
+Khanna,Satisfactory,59,PM10,1
+Kolkata,Poor,207,PM2.5,1
+Kota,Moderate,121,PM10,1
+Lucknow,Poor,242,PM2.5,4
+Ludhiana,Satisfactory,83,PM10,1
+Mandi Gobindgarh,Satisfactory,74,PM10,1
+Mandideep,Moderate,127,PM10,1
+Moradabad,Poor,216,PM2.5,1
+Mumbai,Moderate,120,PM10,1
+Muzaffarnagar,Poor,205,PM2.5,1
+Nagpur,Satisfactory,85,PM10,1
+Nashik,Satisfactory,74,PM10,1
+Navi Mumbai,Satisfactory,86,PM10,1
+Noida,Poor,232,"PM10, PM2.5",2
+Pali,Satisfactory,90,PM10,1
+Panchkula,Satisfactory,97,O3,1
+Patiala,Satisfactory,62,PM10,1
+Patna,Moderate,189,PM2.5,1
+Pithampur,Moderate,124,PM2.5,1
+Pune,Moderate,105,PM10,1
+Rajamahendravaram,Moderate,108,PM10,1
+Rohtak,Moderate,108,PM2.5,1
+Rupnagar,Satisfactory,99,PM10,1
+Satna,Moderate,106,PM10,1
+Siliguri,Satisfactory,90,PM10,1
+Singrauli,Moderate,200,PM10,1
+Solapur,Satisfactory,82,O3,1
+Thane,Satisfactory,70,PM10,1
+Thiruvananthapuram,Satisfactory,54,CO,1
+Tirupati,Good,27,NO2,1
+Udaipur,Satisfactory,94,PM10,1
+Ujjain,Moderate,181,PM2.5,1
+Varanasi,Moderate,197,PM2.5,1
+Vijayawada,Satisfactory,79,PM10,1
+Visakhapatnam,Moderate,155,PM10,1

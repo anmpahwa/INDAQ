@@ -1,0 +1,37 @@
+city,level,index,pollutant,stations
+Agra,Poor,229,PM2.5,1
+Amritsar,Good,47,CO,1
+Aurangabad,Satisfactory,88,PM10,1
+Bengaluru,Satisfactory,85,"PM10, PM2.5",4
+Chandrapur,Moderate,102,PM10,1
+Chennai,Good,41,"O3, PM2.5",3
+Delhi,Poor,219,"PM10, PM2.5",17
+Durgapur,Satisfactory,59,PM10,1
+Faridabad,Poor,225,PM2.5,1
+Ghaziabad,Poor,265,PM10,1
+Gurgaon,Poor,215,PM2.5,1
+Haldia,Good,31,CO,1
+Howrah,Good,43,PM10,1
+Hyderabad,Moderate,103,"PM10, PM2.5",6
+Jaipur,Moderate,197,PM2.5,1
+Kanpur,Moderate,172,PM2.5,1
+Lucknow,Satisfactory,87,PM2.5,3
+Ludhiana,Good,42,CO,1
+Moradabad,Poor,296,PM2.5,1
+Mumbai,Satisfactory,88,PM10,1
+Muzaffarpur,Satisfactory,88,PM2.5,1
+Nagpur,Satisfactory,95,PM2.5,1
+Nashik,Moderate,157,O3,1
+Navi Mumbai,Satisfactory,67,CO,1
+Noida,Moderate,189,"PM10, PM2.5",2
+Panchkula,Moderate,128,PM2.5,1
+Patna,Moderate,160,PM2.5,1
+Pune,Satisfactory,97,CO,1
+Rajamahendravara,Satisfactory,53,CO,1
+Rohtak,Moderate,141,PM2.5,1
+Solapur,Moderate,104,PM10,1
+Thane,Moderate,114,PM10,1
+Thiruvananthapuram,Satisfactory,56,CO,1
+Tirupati,Satisfactory,93,NO2,1
+Varanasi,Satisfactory,98,PM2.5,1
+Visakhapatnam,Satisfactory,76,"PM10, PM2.5",2

@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,338,PM2.5,1
+Ahmedabad,Moderate,183,PM2.5,1
+Ajmer,Moderate,170,PM10,1
+Alwar,Moderate,123,PM10,1
+Amaravati,Moderate,171,PM2.5,1
+Amritsar,Moderate,102,PM10,1
+Asanol,Moderate,193,PM2.5,1
+Aurangabad,Moderate,198,PM2.5,1
+Baghpat,Severe,434,PM2.5,1
+Bathinda,Poor,207,PM10,1
+Bengaluru,Moderate,105,"O3, PM10, PM2.5",10
+Bhiwadi,Poor,242,PM10,1
+Brajrajnagar,Poor,202,PM2.5,1
+Bulandshahr,Severe,414,PM2.5,1
+Chandrapur,Satisfactory,85,"PM10, PM2.5",2
+Chennai,Moderate,174,PM2.5,3
+Chikkaballapur,Satisfactory,88,PM10,1
+Delhi,Very Poor,399,"PM10, PM2.5",33
+Dewas,Moderate,138,O3,1
+Durgapur,Moderate,118,PM10,1
+Faridabad,Severe,454,PM2.5,1
+Gaya,Poor,255,PM2.5,1
+Ghaziabad,Severe,423,PM2.5,1
+Greater Noida,Severe,401,PM2.5,1
+Gurugram,Moderate,191,PM2.5,1
+Hapur,Severe,428,PM2.5,1
+Howrah,Poor,230,PM2.5,2
+Hyderabad,Moderate,130,"PM10, PM2.5",6
+Jaipur,Moderate,173,"PM10, PM2.5",3
+Jalandhar,Moderate,134,PM2.5,1
+Jodhpur,Poor,259,PM2.5,1
+Jorapokhar,Very Poor,308,PM10,1
+Khanna,Moderate,116,PM10,1
+Kolkata,Poor,266,PM2.5,2
+Kota,Moderate,139,PM10,1
+Lucknow,Very Poor,353,PM2.5,4
+Ludhiana,Moderate,120,PM10,1
+Mandideep,Poor,296,PM10,1
+Moradabad,Poor,271,PM10,1
+Mumbai,Moderate,133,PM10,1
+Muzaffarnagar,Severe,405,PM2.5,1
+Muzaffarpur,Very Poor,400,PM2.5,1
+Nagpur,Moderate,109,O3,1
+Nashik,Moderate,171,O3,1
+Navi Mumbai,Moderate,131,PM10,1
+Noida,Severe,411,PM2.5,2
+Pali,Moderate,194,PM2.5,1
+Panchkula,Moderate,135,PM2.5,1
+Patiala,Moderate,110,PM2.5,1
+Pithampur,Moderate,163,O3,1
+Pune,Moderate,112,PM2.5,1
+Rajamahendravaram,Moderate,177,PM2.5,1
+Rohtak,Moderate,128,PM2.5,1
+Rupnagar,Moderate,134,PM10,1
+Satna,Moderate,169,PM10,1
+Siliguri,Poor,216,PM2.5,1
+Singrauli,Very Poor,353,PM2.5,1
+Solapur,Moderate,138,PM10,1
+Talcher,Poor,269,PM10,1
+Thane,Moderate,125,PM10,1
+Thiruvananthapuram,Satisfactory,72,O3,1
+Tirupati,Moderate,117,PM2.5,1
+Udaipur,Poor,209,PM10,1
+Ujjain,Poor,234,O3,1
+Vijayawada,Satisfactory,76,PM10,1
+Visakhapatnam,Poor,228,PM2.5,1

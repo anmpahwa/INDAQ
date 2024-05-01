@@ -1,0 +1,65 @@
+city,level,index,pollutant,stations
+Agra,Satisfactory,84,PM2.5,1
+Ahmedabad,Moderate,190,NO2,1
+Ajmer,Satisfactory,79,PM10,1
+Amaravati,Good,48,PM10,1
+Amritsar,Satisfactory,73,PM10,1
+Asanol,Moderate,119,PM2.5,1
+Aurangabad,Satisfactory,84,O3,1
+Baghpat,Moderate,193,O3,1
+Bathinda,Satisfactory,85,PM10,1
+Bengaluru,Satisfactory,62,"O3, PM10",9
+Bhiwadi,Poor,284,PM10,1
+Bulandshahr,Poor,213,O3,1
+Chandrapur,Satisfactory,86,"PM10, PM2.5",2
+Chennai,Satisfactory,81,"CO, PM2.5",3
+Chikkaballapur,Good,47,NO2,1
+Delhi,Moderate,158,"PM10, PM2.5",27
+Dewas,Moderate,118,PM10,1
+Durgapur,Moderate,118,PM10,1
+Faridabad,Moderate,189,PM2.5,1
+Gaya,Moderate,188,PM2.5,1
+Ghaziabad,Moderate,190,PM2.5,1
+Greater Noida,Moderate,197,PM10,1
+Gurgaon,Moderate,174,PM2.5,1
+Howrah,Moderate,132,"PM10, PM2.5",2
+Hubballi,Satisfactory,79,PM10,1
+Hyderabad,Moderate,122,"PM10, PM2.5",6
+Jaipur,Moderate,142,PM10,3
+Jalandhar,Satisfactory,70,PM2.5,1
+Jodhpur,Moderate,116,PM10,1
+Kanpur,Satisfactory,95,PM2.5,1
+Khanna,Satisfactory,64,PM10,1
+Kolkata,Moderate,126,PM2.5,1
+Kota,Satisfactory,77,PM10,1
+Lucknow,Moderate,154,PM2.5,4
+Mandi Gobindgarh,Satisfactory,64,PM10,1
+Mandideep,Moderate,167,PM10,1
+Moradabad,Moderate,132,PM10,1
+Mumbai,Moderate,124,PM10,1
+Muzaffarnagar,Moderate,128,PM2.5,1
+Muzaffarpur,Poor,207,O3,1
+Nagpur,Satisfactory,90,PM10,1
+Nashik,Satisfactory,94,O3,1
+Navi Mumbai,Satisfactory,86,PM10,1
+Noida,Moderate,150,PM10,1
+Pali,Satisfactory,90,PM10,1
+Panchkula,Moderate,152,O3,1
+Patiala,Satisfactory,80,PM10,1
+Patna,Moderate,182,O3,1
+Pithampur,Moderate,124,PM10,1
+Pune,Satisfactory,82,PM2.5,1
+Rajamahendravaram,Satisfactory,59,O3,1
+Rupnagar,Moderate,123,PM10,1
+Satna,Moderate,111,PM10,1
+Siliguri,Satisfactory,82,PM10,1
+Solapur,Satisfactory,77,CO,1
+Talcher,Satisfactory,60,NO2,1
+Thane,Satisfactory,87,PM10,1
+Thiruvananthapuram,Good,45,O3,1
+Tirupati,Good,37,PM10,1
+Udaipur,Moderate,104,PM10,1
+Ujjain,Poor,204,O3,1
+Varanasi,Moderate,172,PM2.5,1
+Vijayawada,Good,48,PM10,1
+Visakhapatnam,Satisfactory,99,PM10,1

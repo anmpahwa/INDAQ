@@ -1,0 +1,75 @@
+city,level,index,pollutant,stations
+Agra,Moderate,183,PM2.5,1
+Ahmedabad,Poor,264,O3,1
+Alwar,Moderate,106,PM10,1
+Amaravati,Satisfactory,52,PM10,1
+Ambala,Moderate,162,PM10,1
+Amritsar,Moderate,114,PM10,1
+Asanol,Satisfactory,67,PM10,1
+Aurangabad,Satisfactory,76,PM10,1
+Baghpat,Very Poor,373,PM10,1
+Bahadurgarh,Poor,260,PM10,1
+Bengaluru,Good,38,"O3, CO, PM10",5
+Bhiwadi,Poor,252,PM10,1
+Bhiwani,Poor,226,PM2.5,1
+Chandrapur,Satisfactory,85,PM10,1
+Chennai,Satisfactory,92,PM2.5,1
+Chikkaballapur,Good,38,CO,1
+Damoh,Satisfactory,88,PM10,1
+Delhi,Poor,300,"PM10, PM2.5",9
+Dewas,Satisfactory,95,PM10,1
+Dharuhera,Very Poor,308,PM10,1
+Durgapur,Moderate,121,PM10,1
+Eloor,Good,37,CO,1
+Faridabad,Poor,241,PM2.5,1
+Fatehabad,Very Poor,332,PM10,1
+Gandhinagar,Satisfactory,83,PM10,1
+Gaya,Poor,234,PM2.5,1
+Ghaziabad,Poor,274,"PM10, PM2.5",2
+Greater Noida,Very Poor,353,PM10,1
+Guwahati,Good,37,PM2.5,1
+Hisar,Poor,254,PM2.5,1
+Howrah,Satisfactory,74,"O3, PM10",3
+Hyderabad,Good,48,"O3, PM10",5
+Jaipur,Moderate,116,PM10,2
+Jalandhar,Moderate,166,PM10,1
+Jind,Poor,234,PM10,1
+Jodhpur,Moderate,142,PM2.5,1
+Kalaburagi,Good,42,PM10,1
+Kanpur,Moderate,176,O3,1
+Karnal,Poor,225,PM2.5,1
+Kolkata,Satisfactory,66,PM10,2
+Kota,Satisfactory,87,PM10,1
+Kurukshetra,Moderate,158,PM10,1
+Loni Dehat,Very Poor,365,PM10,1
+Lucknow,Moderate,107,PM2.5,2
+Ludhiana,Satisfactory,99,PM10,1
+Maihar,Satisfactory,70,PM10,1
+Mandi Gobindgarh,Moderate,161,PM10,1
+Mandideep,Moderate,136,PM10,1
+Mumbai,Satisfactory,56,"CO, NO2, PM10",5
+Muzaffarnagar,Moderate,199,PM10,1
+Muzaffarpur,Satisfactory,64,CO,1
+Nashik,Good,50,PM2.5,1
+Navi Mumbai,Satisfactory,58,O3,1
+Noida,Very Poor,319,PM10,1
+Pali,Moderate,124,PM10,1
+Palwal,Very Poor,342,PM2.5,1
+Panchkula,Satisfactory,94,PM2.5,1
+Panipat,Moderate,144,PM10,1
+Patiala,Moderate,147,PM10,1
+Patna,Moderate,160,O3,1
+Pithampur,Moderate,116,PM10,1
+Rajamahendravaram,Satisfactory,88,O3,1
+Ratlam,Moderate,117,PM10,1
+Rohtak,Poor,299,PM2.5,1
+Rupnagar,Moderate,133,PM2.5,1
+Satna,Satisfactory,94,PM10,1
+Siliguri,Good,43,CO,1
+Singrauli,Poor,245,PM10,1
+Sirsa,Moderate,197,PM10,1
+Tirupati,Good,50,NO2,1
+Vapi,Satisfactory,52,SO2,1
+Vatva,Satisfactory,98,PM10,1
+Vijayawada,Satisfactory,56,PM10,1
+Visakhapatnam,Satisfactory,94,PM10,1

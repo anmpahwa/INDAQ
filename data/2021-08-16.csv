@@ -1,0 +1,134 @@
+city,level,index,pollutant,stations
+Agartala,Good,23,SO2,1
+Agra,Satisfactory,89,"PM10, PM2.5",5
+Ahmedabad,Satisfactory,70,PM10,7
+Ajmer,Satisfactory,84,PM10,1
+Alwar,Satisfactory,74,PM10,1
+Amaravati,Good,25,CO,1
+Ambala,Satisfactory,68,PM10,1
+Amritsar,Satisfactory,60,PM10,1
+Ankleshwar,Satisfactory,74,PM10,1
+Asansol,Satisfactory,88,PM2.5,1
+Bagalkot,Good,37,PM10,1
+Baghpat,Moderate,137,PM10,1
+Bahadurgarh,Moderate,104,PM10,1
+Ballabgarh,Moderate,126,PM10,1
+Bathinda,Satisfactory,58,PM10,1
+Bengaluru,Satisfactory,57,"CO, PM10",7
+Bhiwadi,Moderate,123,PM10,1
+Bhiwani,Moderate,104,PM10,1
+Bhopal,Satisfactory,97,PM10,1
+Bidar,Satisfactory,57,SO2,1
+Bulandshahr,Moderate,135,PM10,1
+Chamarajanagar,Good,42,PM10,1
+Chandigarh,Satisfactory,96,"O3, PM10",2
+Chandrapur,Good,30,PM10,2
+Charkhi Dadri,Moderate,150,PM2.5,1
+Chennai,Satisfactory,74,"CO, PM10, PM2.5",6
+Chikkaballapur,Good,38,PM10,1
+Chikkamagaluru,Good,26,O3,1
+Damoh,Good,43,PM10,1
+Davanagere,Good,27,PM10,1
+Delhi,Moderate,121,PM10,33
+Dewas,Satisfactory,52,PM2.5,1
+Dharuhera,Satisfactory,89,PM2.5,1
+Eloor,Good,48,O3,1
+Ernakulam,Good,34,PM10,1
+Faridabad,Moderate,131,"O3, PM10",3
+Fatehabad,Moderate,108,PM10,1
+Firozabad,Satisfactory,92,PM10,1
+Gadag,Good,20,CO,1
+Gandhinagar,Satisfactory,55,"CO, PM2.5",2
+Gaya,Satisfactory,60,"CO, PM2.5",2
+Ghaziabad,Moderate,146,PM10,3
+Gorakhpur,Good,29,PM2.5,1
+Greater Noida,Moderate,163,PM10,1
+Gurugram,Satisfactory,91,"PM10, PM2.5",3
+Guwahati,Good,48,PM2.5,1
+Gwalior,Satisfactory,98,PM10,1
+Hajipur,Moderate,119,CO,1
+Haldia,Good,29,CO,1
+Hapur,Moderate,137,PM10,1
+Hisar,Moderate,108,PM10,1
+Howrah,Good,37,"O3, CO, PM10",3
+Hubballi,Good,48,PM10,1
+Hyderabad,Good,42,"CO, NO2, PM10",6
+Indore,Satisfactory,86,PM10,1
+Jabalpur,Satisfactory,79,PM10,1
+Jaipur,Satisfactory,84,PM10,2
+Jalandhar,Satisfactory,66,PM2.5,1
+Jind,Moderate,118,PM10,1
+Jodhpur,Moderate,102,PM10,1
+Kaithal,Moderate,109,PM10,1
+Kalaburgi,Good,29,PM10,1
+Kalyan,Good,28,CO,1
+Kannur,Satisfactory,54,PM2.5,1
+Kanpur,Satisfactory,76,"O3, PM10, PM2.5",3
+Karnal,Satisfactory,60,PM2.5,1
+Katni,Satisfactory,94,PM10,1
+Khanna,Good,45,PM10,1
+Kochi,Good,44,PM10,1
+Kohima,Good,34,SO2,1
+Kolkata,Good,38,PM10,7
+Kollam,Satisfactory,89,CO,1
+Koppal,Good,39,CO,1
+Kota,Satisfactory,63,PM10,1
+Kozhikode,Satisfactory,59,CO,1
+Kurukshetra,Satisfactory,97,PM10,1
+Lucknow,Satisfactory,64,"CO, PM10, PM2.5",6
+Ludhiana,Good,45,PM10,1
+Maihar,Good,50,PM2.5,1
+Mandi Gobindgarh,Satisfactory,92,PM2.5,1
+Mandideep,Satisfactory,59,PM10,1
+Mandikhera,Satisfactory,70,PM10,1
+Manglore,Satisfactory,99,NO2,1
+Medikeri,Good,29,O3,1
+Meerut,Moderate,151,PM10,3
+Moradabad,Moderate,189,PM10,1
+Mumbai,Satisfactory,58,"CO, PM10",20
+Muzaffarnagar,Moderate,136,PM10,1
+Mysuru,Good,35,PM10,1
+Nagpur,Satisfactory,59,PM10,1
+Narnaul,Satisfactory,52,PM2.5,1
+Nashik,Good,28,PM2.5,1
+Navi Mumbai,Satisfactory,57,"CO, PM2.5",2
+Noida,Moderate,143,PM10,3
+Pali,Satisfactory,93,PM10,1
+Palwal,Moderate,109,PM10,1
+Panchkula,Satisfactory,51,O3,1
+Panipat,Moderate,122,PM10,1
+Patna,Satisfactory,71,"O3, PM10",5
+Pithampur,Satisfactory,67,PM10,1
+Prayagraj,Satisfactory,85,PM10,3
+Puducherry,Satisfactory,51,PM10,1
+Pune,Satisfactory,71,"CO, PM2.5",6
+Raichur,Good,25,PM10,1
+Rajamahendravaram,Good,24,CO,1
+Ramanagara,Good,44,PM10,1
+Ratlam,Satisfactory,57,PM10,1
+Rohtak,Moderate,114,PM2.5,1
+Rupnagar,Satisfactory,82,PM10,1
+Sagar,Good,37,PM2.5,1
+Satna,Satisfactory,69,PM10,1
+Shillong,Good,17,SO2,1
+Shivamogga,Good,36,PM10,1
+Siliguri,Good,49,PM10,1
+Singrauli,Moderate,116,PM10,1
+Sirsa,Moderate,111,PM10,1
+Sonipat,Moderate,161,PM10,1
+Srinagar,Good,47,PM10,1
+Talcher,Satisfactory,93,CO,1
+Thane,Good,46,PM10,1
+Thiruvananthapuram,Satisfactory,58,"CO, PM10",2
+Thoothukudi,Satisfactory,58,PM10,1
+Tirupati,Good,39,CO,1
+Udaipur,Satisfactory,83,PM10,1
+Udupi,Satisfactory,95,CO,1
+Ujjain,Satisfactory,86,PM10,1
+Vapi,Good,44,PM10,1
+Varanasi,Satisfactory,75,PM10,3
+Vatva,Satisfactory,96,PM10,1
+Vijayapura,Good,50,CO,1
+Visakhapatnam,Satisfactory,78,PM10,1
+Vrindavan,Satisfactory,99,PM10,1
+Yadgir,Good,20,PM2.5,1

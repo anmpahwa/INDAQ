@@ -1,0 +1,66 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,318,PM2.5,1
+Ahmedabad,Moderate,199,PM2.5,1
+Ajmer,Moderate,130,PM2.5,1
+Alwar,Satisfactory,94,NO2,1
+Amaravati,Moderate,146,PM2.5,1
+Amritsar,Moderate,125,PM10,1
+Asanol,Moderate,179,PM2.5,1
+Aurangabad,Moderate,124,PM10,1
+Baghpat,Poor,290,PM2.5,1
+Bathinda,Moderate,119,PM10,1
+Bengaluru,Satisfactory,75,"O3, PM10",8
+Bhiwadi,Very Poor,324,PM10,1
+Bulandshahr,Very Poor,338,PM2.5,1
+Chandrapur,Moderate,182,"PM10, PM2.5",2
+Chennai,Satisfactory,98,PM2.5,3
+Chikkaballapur,Satisfactory,70,PM10,1
+Delhi,Very Poor,306,"PM10, PM2.5",33
+Dewas,Poor,224,PM2.5,1
+Faridabad,Poor,266,PM2.5,1
+Gaya,Very Poor,394,PM2.5,1
+Ghaziabad,Very Poor,319,PM2.5,1
+Greater Noida,Very Poor,329,PM2.5,1
+Gurugram,Poor,281,PM2.5,2
+Haldia,Moderate,134,PM10,1
+Howrah,Poor,264,PM2.5,2
+Hubballi,Satisfactory,92,PM10,1
+Hyderabad,Moderate,137,"PM10, PM2.5",6
+Jaipur,Moderate,173,"PM10, PM2.5",3
+Jalandhar,Moderate,120,PM2.5,1
+Jodhpur,Poor,260,PM2.5,1
+Jorapokhar,Poor,276,PM10,1
+Kanpur,Very Poor,354,PM2.5,1
+Khanna,Satisfactory,92,PM10,1
+Kolkata,Poor,300,PM2.5,2
+Kota,Moderate,170,PM2.5,1
+Lucknow,Very Poor,351,PM2.5,4
+Ludhiana,Satisfactory,93,PM10,1
+Mandi Gobindgarh,Poor,220,PM2.5,1
+Mandideep,Poor,255,PM2.5,1
+Moradabad,Moderate,187,PM2.5,1
+Mumbai,Moderate,151,PM10,1
+Muzaffarnagar,Very Poor,304,PM2.5,1
+Nagpur,Poor,224,PM2.5,1
+Nashik,Moderate,188,O3,1
+Navi Mumbai,Moderate,121,PM10,1
+Noida,Very Poor,309,PM2.5,2
+Pali,Moderate,167,PM2.5,1
+Panchkula,Satisfactory,56,O3,1
+Patiala,Moderate,113,PM10,1
+Patna,Very Poor,374,PM2.5,1
+Pithampur,Poor,241,PM2.5,1
+Pune,Moderate,200,PM2.5,1
+Rajamahendravaram,Moderate,126,PM2.5,1
+Rupnagar,Moderate,116,PM2.5,1
+Satna,Moderate,121,PM10,1
+Siliguri,Moderate,164,PM10,1
+Singrauli,Very Poor,350,PM2.5,1
+Solapur,Moderate,153,PM10,1
+Talcher,Very Poor,353,PM10,1
+Thiruvananthapuram,Satisfactory,90,CO,1
+Tirupati,Satisfactory,76,PM10,1
+Udaipur,Moderate,180,PM10,1
+Ujjain,Poor,232,PM2.5,1
+Vijayawada,Satisfactory,75,PM10,1
+Visakhapatnam,Moderate,110,PM10,1

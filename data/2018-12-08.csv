@@ -1,0 +1,66 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,378,PM2.5,1
+Ajmer,Moderate,159,PM2.5,1
+Alwar,Moderate,121,PM10,1
+Amaravati,Poor,263,PM2.5,1
+Amritsar,Moderate,130,PM10,1
+Asanol,Poor,213,PM2.5,1
+Aurangabad,Moderate,119,PM10,1
+Baghpat,Very Poor,326,PM2.5,1
+Bathinda,Moderate,134,PM10,1
+Bengaluru,Satisfactory,100,"O3, PM2.5",6
+Brajrajnagar,Moderate,191,PM2.5,1
+Bulandshahr,Very Poor,364,PM2.5,1
+Chandrapur,Moderate,182,"PM10, PM2.5",2
+Chennai,Poor,238,PM2.5,3
+Chikkaballapur,Satisfactory,86,PM2.5,1
+Delhi,Very Poor,347,"PM10, PM2.5",30
+Dewas,Moderate,156,O3,1
+Durgapur,Moderate,166,PM10,1
+Faridabad,Very Poor,357,PM2.5,1
+Gaya,Poor,299,PM2.5,1
+Greater Noida,Very Poor,361,PM2.5,1
+Hapur,Very Poor,365,PM2.5,1
+Howrah,Very Poor,348,PM2.5,2
+Hubballi,Satisfactory,93,PM10,1
+Hyderabad,Moderate,147,PM2.5,6
+Jaipur,Moderate,154,"PM10, PM2.5",3
+Jalandhar,Moderate,128,PM2.5,1
+Jodhpur,Poor,236,PM2.5,1
+Kanpur,Very Poor,353,PM2.5,1
+Khanna,Satisfactory,97,PM10,1
+Kolkata,Very Poor,391,PM2.5,2
+Kota,Moderate,136,PM2.5,1
+Lucknow,Very Poor,349,PM2.5,3
+Ludhiana,Moderate,103,PM10,1
+Mandi Gobindgarh,Moderate,138,PM10,1
+Mandideep,Satisfactory,98,O3,1
+Moradabad,Poor,214,PM2.5,1
+Mumbai,Moderate,153,PM10,1
+Muzaffarnagar,Very Poor,330,PM2.5,1
+Muzaffarpur,Severe,405,PM2.5,1
+Nagpur,Moderate,198,PM2.5,1
+Nashik,Satisfactory,97,O3,1
+Navi Mumbai,Moderate,135,PM10,1
+Noida,Very Poor,379,PM2.5,1
+Pali,Poor,223,PM2.5,1
+Panchkula,Satisfactory,91,O3,1
+Patiala,Moderate,177,PM2.5,1
+Patna,Severe,406,PM2.5,1
+Pithampur,Moderate,150,PM2.5,1
+Pune,Moderate,143,PM2.5,1
+Rajamahendravaram,Poor,260,PM2.5,1
+Rohtak,Moderate,141,PM2.5,1
+Rupnagar,Moderate,115,PM2.5,1
+Satna,Satisfactory,94,PM10,1
+Siliguri,Moderate,155,PM10,1
+Singrauli,Very Poor,325,PM2.5,1
+Solapur,Moderate,197,PM10,1
+Talcher,Poor,265,PM10,1
+Thane,Moderate,142,PM10,1
+Thiruvananthapuram,Satisfactory,89,CO,1
+Tirupati,Moderate,133,PM2.5,1
+Udaipur,Moderate,122,PM10,1
+Ujjain,Moderate,150,O3,1
+Varanasi,Very Poor,354,PM2.5,1
+Vijayawada,Satisfactory,78,PM2.5,1

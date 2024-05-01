@@ -1,0 +1,69 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,318,PM2.5,1
+Ahmedabad,Moderate,102,PM2.5,1
+Ajmer,Moderate,103,PM10,1
+Alwar,Satisfactory,80,NO2,1
+Amaravati,Poor,218,PM2.5,1
+Amritsar,Moderate,105,PM10,1
+Asanol,Satisfactory,98,PM10,1
+Aurangabad,Satisfactory,95,O3,1
+Baghpat,Very Poor,317,PM2.5,1
+Bathinda,Satisfactory,95,PM10,1
+Bengaluru,Moderate,115,"O3, PM2.5",7
+Bhiwadi,Poor,282,PM2.5,1
+Brajrajnagar,Moderate,136,PM2.5,1
+Bulandshahr,Very Poor,328,PM2.5,1
+Chandrapur,Moderate,103,O3,1
+Chennai,Moderate,133,PM2.5,3
+Chikkaballapur,Moderate,105,PM2.5,1
+Delhi,Poor,282,PM2.5,31
+Dewas,Moderate,144,PM2.5,1
+Durgapur,Moderate,114,PM10,1
+Faridabad,Poor,236,PM2.5,1
+Gaya,Poor,289,PM2.5,1
+Ghaziabad,Very Poor,326,PM2.5,1
+Greater Noida,Very Poor,320,PM2.5,1
+Gurugram,Moderate,112,PM2.5,1
+Haldia,Moderate,133,PM10,1
+Hapur,Very Poor,350,PM2.5,1
+Howrah,Poor,230,PM2.5,2
+Hubballi,Moderate,123,PM2.5,1
+Hyderabad,Moderate,153,PM2.5,6
+Jaipur,Moderate,154,"PM10, PM2.5",3
+Jalandhar,Moderate,101,PM2.5,1
+Jodhpur,Moderate,121,PM10,1
+Jorapokhar,Poor,254,PM10,1
+Kanpur,Poor,293,PM2.5,1
+Khanna,Satisfactory,61,PM10,1
+Kolkata,Poor,246,PM2.5,2
+Kota,Satisfactory,96,PM10,1
+Lucknow,Poor,228,PM2.5,4
+Ludhiana,Satisfactory,71,PM10,1
+Mandi Gobindgarh,Moderate,138,PM10,1
+Mandideep,Moderate,164,PM2.5,1
+Moradabad,Very Poor,388,PM2.5,1
+Mumbai,Moderate,150,PM10,1
+Muzaffarnagar,Very Poor,339,PM2.5,1
+Muzaffarpur,Poor,290,PM2.5,1
+Nagpur,Moderate,110,PM2.5,1
+Nashik,Moderate,183,O3,1
+Navi Mumbai,Moderate,101,PM10,1
+Noida,Poor,272,PM2.5,2
+Pali,Satisfactory,81,PM10,1
+Panchkula,Satisfactory,92,PM2.5,1
+Patiala,Satisfactory,90,PM10,1
+Pithampur,Moderate,185,PM2.5,1
+Pune,Poor,237,PM2.5,1
+Rajamahendravaram,Moderate,139,PM2.5,1
+Rohtak,Moderate,143,PM2.5,1
+Rupnagar,Moderate,112,PM10,1
+Satna,Moderate,160,PM10,1
+Siliguri,Moderate,182,PM10,1
+Singrauli,Poor,258,PM2.5,1
+Thiruvananthapuram,Moderate,128,PM2.5,1
+Tirupati,Moderate,134,PM2.5,1
+Udaipur,Moderate,128,PM10,1
+Ujjain,Moderate,145,PM2.5,1
+Varanasi,Very Poor,309,PM2.5,1
+Vijayawada,Satisfactory,71,PM10,1
+Visakhapatnam,Moderate,122,PM10,1

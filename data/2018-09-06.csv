@@ -1,0 +1,65 @@
+city,level,index,pollutant,stations
+Agra,Satisfactory,51,PM2.5,1
+Ahmedabad,Satisfactory,82,NO2,1
+Ajmer,Satisfactory,58,PM2.5,1
+Alwar,Satisfactory,98,PM10,1
+Amaravati,Satisfactory,84,PM10,1
+Amritsar,Satisfactory,73,PM10,1
+Asanol,Good,38,CO,1
+Aurangabad,Satisfactory,56,PM10,1
+Baghpat,Moderate,113,PM10,1
+Bathinda,Satisfactory,98,PM2.5,1
+Bengaluru,Satisfactory,64,"PM10, PM2.5",8
+Bulandshahr,Moderate,134,O3,1
+Chandrapur,Satisfactory,76,PM10,2
+Chennai,Moderate,107,PM2.5,3
+Delhi,Moderate,137,"PM10, PM2.5",32
+Dewas,Moderate,100,PM10,1
+Durgapur,Good,36,NO2,1
+Faridabad,Moderate,167,PM2.5,1
+Gaya,Satisfactory,99,NO2,1
+Ghaziabad,Moderate,152,PM10,1
+Greater Noida,Moderate,176,PM10,1
+Gurgaon,Moderate,125,PM2.5,1
+Howrah,Good,30,PM10,1
+Hyderabad,Satisfactory,73,"PM10, PM2.5",4
+Jaipur,Moderate,120,PM10,3
+Jalandhar,Satisfactory,53,PM2.5,1
+Jorapokhar,Satisfactory,81,PM10,1
+Kanpur,Satisfactory,91,CO,1
+Khanna,Satisfactory,69,PM10,1
+Kolkata,Satisfactory,52,CO,1
+Kota,Satisfactory,80,PM2.5,1
+Lucknow,Satisfactory,89,"CO, PM2.5",4
+Ludhiana,Satisfactory,51,PM10,1
+Mandi Gobindgarh,Moderate,112,PM10,1
+Mandideep,Satisfactory,98,PM10,1
+Moradabad,Moderate,125,PM10,1
+Mumbai,Satisfactory,58,PM10,1
+Muzaffarnagar,Moderate,100,PM10,1
+Muzaffarpur,Satisfactory,87,NO2,1
+Nagpur,Satisfactory,54,PM10,1
+Nashik,Good,43,O3,1
+Navi Mumbai,Satisfactory,51,PM10,1
+Noida,Moderate,154,PM10,2
+Pali,Moderate,102,PM10,1
+Panchkula,Satisfactory,75,O3,1
+Patiala,Satisfactory,80,PM10,1
+Patna,Moderate,122,PM2.5,1
+Pithampur,Moderate,109,PM10,1
+Pune,Satisfactory,54,PM10,1
+Rajamahendravaram,Satisfactory,76,PM10,1
+Rohtak,Satisfactory,53,PM2.5,1
+Rupnagar,Satisfactory,73,PM2.5,1
+Satna,Satisfactory,57,CO,1
+Siliguri,Good,45,PM10,1
+Singrauli,Good,31,PM2.5,1
+Solapur,Satisfactory,55,O3,1
+Thane,Good,42,PM10,1
+Thiruvananthapuram,Satisfactory,55,PM10,1
+Tirupati,Satisfactory,53,PM10,1
+Udaipur,Satisfactory,58,PM10,1
+Ujjain,Satisfactory,92,PM10,1
+Varanasi,Satisfactory,87,O3,1
+Vijayawada,Satisfactory,76,PM10,1
+Visakhapatnam,Moderate,110,PM10,1

@@ -1,0 +1,66 @@
+city,level,index,pollutant,stations
+Agra,Satisfactory,51,PM2.5,1
+Ahmedabad,Satisfactory,87,SO2,1
+Ajmer,Satisfactory,91,PM2.5,1
+Alwar,Good,47,PM2.5,1
+Amaravati,Satisfactory,72,PM10,1
+Amritsar,Good,44,PM10,1
+Asanol,Satisfactory,68,PM10,1
+Aurangabad,Satisfactory,59,O3,1
+Baghpat,Satisfactory,79,PM10,1
+Bathinda,Satisfactory,81,PM2.5,1
+Bengaluru,Satisfactory,81,"O3, PM10",9
+Bhiwadi,Satisfactory,98,PM10,1
+Bulandshahr,Moderate,102,O3,1
+Chandrapur,Satisfactory,84,"PM10, PM2.5",2
+Chennai,Satisfactory,83,PM2.5,3
+Chikkaballapur,Satisfactory,60,NO2,1
+Delhi,Satisfactory,79,"NO2, PM10, PM2.5",31
+Dewas,Satisfactory,93,PM10,1
+Durgapur,Satisfactory,69,PM10,1
+Faridabad,Satisfactory,72,PM2.5,1
+Gaya,Moderate,117,NO2,1
+Ghaziabad,Satisfactory,76,PM10,1
+Greater Noida,Satisfactory,71,PM10,1
+Gurgaon,Satisfactory,60,PM2.5,1
+Haldia,Satisfactory,61,PM10,1
+Howrah,Satisfactory,74,PM10,2
+Hyderabad,Satisfactory,77,"NO2, PM10, PM2.5",6
+Jaipur,Satisfactory,73,PM10,3
+Jalandhar,Good,39,O3,1
+Jodhpur,Satisfactory,81,PM10,1
+Kanpur,Satisfactory,74,CO,1
+Khanna,Good,49,O3,1
+Kolkata,Satisfactory,61,CO,1
+Kota,Satisfactory,64,PM10,1
+Lucknow,Satisfactory,71,"CO, PM2.5",4
+Ludhiana,Good,42,O3,1
+Mandi Gobindgarh,Good,35,PM10,1
+Mandideep,Moderate,106,PM10,1
+Moradabad,Satisfactory,96,PM10,1
+Mumbai,Satisfactory,76,CO,1
+Muzaffarnagar,Satisfactory,95,PM2.5,1
+Muzaffarpur,Moderate,109,NO2,1
+Nagpur,Good,46,PM10,1
+Nashik,Satisfactory,50,PM10,1
+Navi Mumbai,Satisfactory,78,PM10,1
+Noida,Satisfactory,62,PM10,1
+Panchkula,Satisfactory,57,O3,1
+Patiala,Satisfactory,80,PM10,1
+Patna,Satisfactory,93,PM2.5,1
+Pithampur,Satisfactory,90,PM10,1
+Pune,Satisfactory,58,PM10,1
+Rajamahendravaram,Satisfactory,67,O3,1
+Rohtak,Satisfactory,80,PM2.5,1
+Rupnagar,Good,35,PM2.5,1
+Satna,Satisfactory,62,CO,1
+Siliguri,Good,33,CO,1
+Singrauli,Satisfactory,96,PM10,1
+Thane,Satisfactory,82,PM10,1
+Thiruvananthapuram,Satisfactory,57,PM10,1
+Tirupati,Good,46,PM10,1
+Udaipur,Satisfactory,88,CO,1
+Ujjain,Satisfactory,63,O3,1
+Varanasi,Poor,206,PM10,1
+Vijayawada,Satisfactory,63,PM10,1
+Visakhapatnam,Moderate,100,PM10,1

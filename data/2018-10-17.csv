@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Poor,243,O3,1
+Ahmedabad,Poor,264,PM2.5,1
+Ajmer,Moderate,106,PM10,1
+Alwar,Satisfactory,84,PM10,1
+Amaravati,Satisfactory,63,PM10,1
+Amritsar,Satisfactory,99,PM10,1
+Asanol,Poor,219,PM2.5,1
+Aurangabad,Moderate,102,O3,1
+Baghpat,Very Poor,324,PM2.5,1
+Bengaluru,Satisfactory,64,"O3, PM10",7
+Bhiwadi,Very Poor,348,PM10,1
+Chandrapur,Moderate,122,PM10,2
+Chennai,Satisfactory,60,"CO, PM2.5",2
+Chikkaballapur,Good,49,NO2,1
+Delhi,Very Poor,313,"PM10, PM2.5",30
+Dewas,Poor,227,PM10,1
+Durgapur,Moderate,157,PM10,1
+Faridabad,Poor,298,PM2.5,1
+Gaya,Moderate,156,PM2.5,1
+Ghaziabad,Very Poor,304,PM10,1
+Greater Noida,Poor,279,PM2.5,1
+Haldia,Moderate,116,PM10,1
+Howrah,Poor,204,PM2.5,2
+Hubballi,Good,42,PM2.5,1
+Hyderabad,Satisfactory,70,"NO2, PM2.5",5
+Jaipur,Moderate,122,"PM10, PM2.5",3
+Jalandhar,Satisfactory,95,PM2.5,1
+Jodhpur,Moderate,188,PM2.5,1
+Jorapokhar,Poor,238,PM10,1
+Kanpur,Poor,244,PM2.5,1
+Khanna,Moderate,103,PM10,1
+Kolkata,Moderate,186,PM2.5,1
+Kota,Moderate,118,PM10,1
+Lucknow,Poor,264,PM2.5,4
+Ludhiana,Moderate,126,PM2.5,1
+Mandi Gobindgarh,Satisfactory,100,PM10,1
+Mandideep,Moderate,190,PM10,1
+Moradabad,Very Poor,330,PM2.5,1
+Mumbai,Moderate,124,PM10,1
+Muzaffarnagar,Poor,284,PM2.5,1
+Muzaffarpur,Poor,269,PM2.5,1
+Nagpur,Moderate,106,O3,1
+Nashik,Satisfactory,78,PM10,1
+Navi Mumbai,Satisfactory,62,CO,1
+Noida,Very Poor,302,PM10,2
+Pali,Moderate,122,PM10,1
+Panchkula,Satisfactory,85,O3,1
+Patiala,Moderate,152,PM2.5,1
+Patna,Poor,242,PM2.5,1
+Pithampur,Moderate,179,PM10,1
+Pune,Moderate,113,PM2.5,1
+Rajamahendravaram,Satisfactory,62,O3,1
+Rohtak,Moderate,103,PM2.5,1
+Satna,Moderate,140,PM10,1
+Siliguri,Moderate,116,PM10,1
+Singrauli,Poor,282,PM10,1
+Solapur,Satisfactory,71,NO2,1
+Talcher,Satisfactory,97,CO,1
+Thane,Moderate,132,PM10,1
+Thiruvananthapuram,Good,45,CO,1
+Tirupati,Good,38,PM10,1
+Udaipur,Moderate,103,PM10,1
+Ujjain,Moderate,163,O3,1
+Varanasi,Poor,268,PM2.5,1
+Vijayawada,Satisfactory,54,PM10,1
+Visakhapatnam,Satisfactory,87,PM2.5,1

@@ -1,0 +1,92 @@
+city,level,index,pollutant,stations
+Agra,Moderate,153,PM2.5,1
+Ahmedabad,Poor,265,PM2.5,1
+Ajmer,Satisfactory,99,O3,1
+Alwar,Satisfactory,90,PM2.5,1
+Amaravati,Satisfactory,66,PM10,1
+Ambala,Moderate,177,O3,1
+Amritsar,Moderate,148,PM2.5,1
+Ankleshwar,Moderate,113,PM10,1
+Asanol,Satisfactory,81,PM2.5,1
+Aurangabad,Moderate,106,O3,1
+Baghpat,Moderate,200,O3,1
+Bahadurgarh,Moderate,120,PM2.5,1
+Ballabgarh,Poor,224,PM10,1
+Bathinda,Moderate,137,PM10,1
+Bengaluru,Moderate,151,"O3, PM2.5",6
+Bhiwadi,Moderate,190,PM2.5,1
+Bhiwani,Moderate,122,PM2.5,1
+Brajrajnagar,Moderate,188,PM2.5,1
+Bulandshahr,Moderate,187,PM2.5,1
+Chandrapur,Moderate,131,PM10,1
+Chennai,Moderate,106,"CO, PM2.5",3
+Chikkaballapur,Moderate,104,PM10,1
+Damoh,Moderate,102,PM10,1
+Delhi,Moderate,198,"O3, PM2.5",35
+Dewas,Moderate,125,PM10,1
+Dharuhera,Moderate,135,PM2.5,1
+Durgapur,Moderate,105,PM10,1
+Faridabad,Moderate,181,O3,1
+Gaya,Moderate,128,PM2.5,1
+Ghaziabad,Poor,227,PM10,3
+Greater Noida,Moderate,178,PM10,1
+Gurugram,Moderate,174,"PM10, PM2.5",2
+Guwahati,Moderate,122,PM2.5,1
+Hapur,Moderate,177,PM10,1
+Hisar,Moderate,150,O3,1
+Howrah,Satisfactory,72,"PM10, PM2.5",2
+Hyderabad,Moderate,113,"PM10, PM2.5",6
+Jaipur,Satisfactory,97,"O3, PM10",3
+Jalandhar,Moderate,146,PM10,1
+Jind,Moderate,134,PM10,1
+Jodhpur,Poor,238,PM2.5,1
+Jorapokhar,Satisfactory,97,PM10,1
+Kaithal,Moderate,126,PM10,1
+Kanpur,Moderate,104,PM2.5,1
+Karnal,Moderate,150,PM10,1
+Khanna,Satisfactory,86,PM10,1
+Kolkata,Satisfactory,75,PM10,2
+Kota,Moderate,162,PM2.5,1
+Kurushketra,Moderate,131,PM10,1
+Loni Dehat,Poor,251,PM10,1
+Lucknow,Poor,230,"NO2, PM2.5",3
+Ludhiana,Moderate,111,PM2.5,1
+Maihar,Good,48,PM10,1
+Mandi Gobindgarh,Moderate,147,PM2.5,1
+Mandideep,Moderate,160,PM10,1
+Mandikhera,Moderate,105,PM10,1
+Manesar,Moderate,150,PM10,1
+Moradabad,Moderate,187,O3,1
+Muzaffarnagar,Poor,256,PM2.5,1
+Muzaffarpur,Moderate,160,O3,1
+Nagpur,Satisfactory,97,O3,1
+Narnaul,Moderate,187,PM10,1
+Nashik,Satisfactory,100,O3,1
+Navi Mumbai,Moderate,109,CO,1
+Noida,Moderate,196,PM10,2
+Pali,Moderate,120,PM2.5,1
+Palwal,Moderate,127,PM10,1
+Panchkula,Satisfactory,72,PM2.5,1
+Panipat,Moderate,119,PM10,1
+Patiala,Moderate,148,PM10,1
+Patna,Poor,231,O3,1
+Pithampur,Moderate,136,PM10,1
+Pune,Satisfactory,81,PM10,1
+Rajamahendravaram,Satisfactory,63,O3,1
+Ratlam,Moderate,118,PM10,1
+Rohtak,Moderate,106,PM2.5,1
+Satna,Satisfactory,93,PM10,1
+Siliguri,Satisfactory,71,O3,1
+Sirsa,Moderate,134,PM10,1
+Solapur,Moderate,152,O3,1
+Sonipat,Moderate,130,PM10,1
+Thane,Moderate,109,PM2.5,1
+Thiruvananthapuram,Satisfactory,81,PM10,1
+Tirupati,Satisfactory,69,PM10,1
+Udaipur,Satisfactory,67,PM10,1
+Ujjain,Moderate,145,PM10,1
+Vapi,Moderate,112,PM10,1
+Varanasi,Poor,224,PM10,1
+Vatva,Poor,224,O3,1
+Visakhapatnam,Satisfactory,95,PM10,1
+Yamunanagar,Moderate,161,PM10,1

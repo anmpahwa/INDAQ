@@ -1,0 +1,134 @@
+city,level,index,pollutant,stations
+Agartala,Good,27,PM10,1
+Agra,Satisfactory,71,PM10,4
+Ahmedabad,Satisfactory,52,"O3, CO, PM10",8
+Aizawl,Good,20,SO2,1
+Ajmer,Satisfactory,54,PM10,1
+Alwar,Satisfactory,79,PM10,1
+Amaravati,Satisfactory,53,O3,1
+Ambala,Satisfactory,69,PM10,1
+Amritsar,Satisfactory,78,PM10,1
+Asansol,Satisfactory,56,PM2.5,1
+Aurangabad,Satisfactory,78,PM10,1
+Bagalkot,Good,25,CO,1
+Baghpat,Moderate,125,PM10,1
+Bahadurgarh,Satisfactory,93,PM10,1
+Ballabgarh,Moderate,153,PM10,1
+Bengaluru,Satisfactory,53,"CO, NO2, PM10",8
+Bhiwadi,Moderate,148,PM10,1
+Bhiwani,Satisfactory,87,PM10,1
+Bhopal,Satisfactory,60,PM10,1
+Brajrajnagar,Good,46,PM10,1
+Bulandshahr,Satisfactory,78,PM10,1
+Chamarajanagar,Good,38,PM10,1
+Chandigarh,Moderate,116,"O3, PM10",2
+Chandrapur,Good,34,PM10,2
+Charkhi Dadri,Satisfactory,90,PM10,1
+Chennai,Satisfactory,58,"CO, PM10",5
+Chikkaballapur,Good,34,NO2,1
+Chikkamagaluru,Good,26,O3,1
+Damoh,Good,28,PM2.5,1
+Davanagere,Good,23,CO,1
+Delhi,Moderate,115,PM10,36
+Dewas,Good,48,PM10,1
+Dharuhera,Satisfactory,93,PM10,1
+Durgapur,Moderate,167,PM2.5,1
+Eloor,Satisfactory,70,CO,1
+Ernakulam,Good,32,PM10,1
+Faridabad,Moderate,123,"PM10, PM2.5",3
+Fatehabad,Moderate,142,PM10,1
+Firozabad,Good,48,PM10,1
+Gadag,Good,29,SO2,1
+Gandhinagar,Satisfactory,54,"CO, PM10",2
+Gaya,Satisfactory,81,O3,1
+Ghaziabad,Moderate,130,PM10,4
+Gorakhpur,Good,27,CO,1
+Greater Noida,Moderate,105,PM10,2
+Gummidipoondi,Satisfactory,89,PM10,1
+Gurugram,Moderate,114,"PM10, PM2.5",3
+Guwahati,Satisfactory,63,"SO2, PM2.5",2
+Gwalior,Satisfactory,79,PM10,2
+Hajipur,Satisfactory,55,CO,1
+Haldia,Satisfactory,67,PM10,1
+Hapur,Satisfactory,96,PM10,1
+Hassan,Satisfactory,75,PM10,1
+Hisar,Satisfactory,100,PM10,1
+Howrah,Satisfactory,76,PM10,3
+Hubballi,Good,35,PM10,1
+Hyderabad,Satisfactory,68,"NO2, PM10, PM2.5",6
+Indore,Satisfactory,62,PM10,1
+Jabalpur,Satisfactory,82,PM10,1
+Jaipur,Satisfactory,72,PM10,2
+Jind,Satisfactory,94,PM10,1
+Jodhpur,Satisfactory,88,PM10,1
+Kalaburgi,Good,32,PM10,1
+Kannur,Good,45,CO,1
+Kanpur,Good,43,"O3, NO2, PM10",3
+Karnal,Satisfactory,65,PM10,1
+Katni,Satisfactory,73,PM10,1
+Khanna,Satisfactory,54,PM10,1
+Kochi,Good,39,PM2.5,1
+Kohima,Satisfactory,53,PM10,1
+Kolar,Good,42,CO,1
+Kolkata,Satisfactory,75,"O3, PM10, PM2.5",7
+Kollam,Satisfactory,100,CO,1
+Koppal,Good,47,CO,1
+Kota,Satisfactory,51,PM10,1
+Kozhikode,Good,43,CO,1
+Kurukshetra,Satisfactory,90,PM10,1
+Lucknow,Satisfactory,52,"CO, PM10, PM2.5",6
+Ludhiana,Satisfactory,66,PM10,1
+Maihar,Good,22,NO2,1
+Mandi Gobindgarh,Moderate,130,PM2.5,1
+Mandideep,Good,41,PM10,1
+Mandikhera,Satisfactory,61,PM10,1
+Manesar,Satisfactory,84,PM10,1
+Medikeri,Good,29,O3,1
+Meerut,Moderate,110,PM10,3
+Moradabad,Satisfactory,81,PM2.5,1
+Mumbai,Satisfactory,52,"CO, PM10",16
+Muzaffarnagar,Moderate,158,PM2.5,1
+Muzaffarpur,Good,46,CO,1
+Mysuru,Good,33,PM10,1
+Naharlagun,Good,39,SO2,1
+Narnaul,Good,47,PM2.5,1
+Nashik,Good,30,PM2.5,1
+Navi Mumbai,Satisfactory,71,"CO, PM10",3
+Noida,Moderate,115,PM10,4
+Pali,Satisfactory,56,PM10,1
+Palwal,Satisfactory,85,PM10,1
+Panchkula,Satisfactory,73,PM2.5,1
+Panipat,Moderate,147,PM10,1
+Patiala,Satisfactory,70,PM10,1
+Patna,Satisfactory,99,"O3, CO, PM10",5
+Pithampur,Satisfactory,69,PM10,1
+Prayagraj,Good,34,PM10,3
+Puducherry,Satisfactory,64,O3,1
+Pune,Satisfactory,66,"CO, PM2.5",4
+Raichur,Good,48,PM10,1
+Rajamahendravaram,Satisfactory,60,PM10,1
+Ramanagara,Good,36,O3,1
+Ratlam,Good,43,PM10,1
+Rohtak,Satisfactory,97,NO2,1
+Rupnagar,Satisfactory,85,PM10,1
+Sagar,Good,26,PM2.5,1
+Satna,Good,45,PM10,1
+Shivamogga,Good,40,PM10,1
+Siliguri,Good,40,PM10,1
+Singrauli,Good,49,PM10,1
+Sirsa,Moderate,142,PM10,1
+Solapur,Good,48,PM10,1
+Sonipat,Poor,234,PM10,1
+Srinagar,Satisfactory,82,PM10,1
+Talcher,Satisfactory,53,PM10,1
+Thane,Moderate,135,PM10,1
+Thiruvananthapuram,Satisfactory,53,"CO, PM10",2
+Thoothukudi,Good,41,PM10,1
+Tirupati,Good,40,CO,1
+Udaipur,Satisfactory,68,PM10,1
+Ujjain,Satisfactory,83,PM10,1
+Varanasi,Good,47,PM10,4
+Vatva,Satisfactory,89,PM10,1
+Visakhapatnam,Moderate,102,PM10,1
+Vrindavan,Satisfactory,62,PM10,1
+Yadgir,Good,29,PM10,1

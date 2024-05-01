@@ -1,0 +1,133 @@
+city,level,index,pollutant,stations
+Agartala,Good,29,PM10,1
+Agra,Satisfactory,98,PM10,4
+Ahmedabad,Satisfactory,69,"CO, PM10",8
+Aizawl,Good,20,SO2,1
+Ajmer,Moderate,107,PM10,1
+Alwar,Satisfactory,88,PM10,1
+Amaravati,Good,32,O3,1
+Ambala,Satisfactory,75,PM10,1
+Amritsar,Moderate,143,PM2.5,1
+Ankleshwar,Satisfactory,73,PM10,1
+Asansol,Satisfactory,66,PM10,1
+Aurangabad,Satisfactory,69,PM10,1
+Bagalkot,Good,25,CO,1
+Baghpat,Moderate,147,PM10,1
+Bahadurgarh,Moderate,112,PM10,1
+Ballabgarh,Moderate,169,PM10,1
+Bengaluru,Satisfactory,62,"CO, NO2, PM10",7
+Bhiwadi,Moderate,134,PM10,1
+Bhiwani,Moderate,111,PM10,1
+Bhopal,Satisfactory,67,PM10,1
+Bidar,Satisfactory,52,SO2,1
+Bulandshahr,Moderate,134,PM10,1
+Chandigarh,Moderate,156,PM10,2
+Chandrapur,Satisfactory,68,"PM10, PM2.5",2
+Chennai,Satisfactory,58,"O3, CO, PM10",7
+Chikkaballapur,Good,34,NO2,1
+Chikkamagaluru,Good,27,O3,1
+Damoh,Good,29,PM2.5,1
+Delhi,Moderate,134,PM10,38
+Dewas,Satisfactory,72,PM10,1
+Dharuhera,Satisfactory,79,CO,1
+Durgapur,Satisfactory,71,PM2.5,1
+Eloor,Satisfactory,70,CO,1
+Ernakulam,Good,33,CO,1
+Faridabad,Moderate,128,"O3, PM10",4
+Fatehabad,Moderate,129,PM10,1
+Firozabad,Satisfactory,75,PM10,1
+Gadag,Good,24,SO2,1
+Gandhinagar,Satisfactory,69,"CO, PM10, PM2.5",3
+Gaya,Satisfactory,72,CO,2
+Ghaziabad,Moderate,171,PM10,4
+Gorakhpur,Good,32,PM10,1
+Greater Noida,Poor,228,"O3, PM10",2
+Gummidipoondi,Satisfactory,65,PM10,1
+Gurugram,Satisfactory,76,PM2.5,2
+Guwahati,Satisfactory,53,SO2,2
+Gwalior,Satisfactory,87,PM10,2
+Hajipur,Satisfactory,67,CO,1
+Haldia,Satisfactory,61,PM10,1
+Hapur,Moderate,151,PM10,1
+Hassan,Satisfactory,70,PM10,1
+Hisar,Moderate,122,PM10,1
+Howrah,Satisfactory,59,"CO, PM10, PM2.5",3
+Hubballi,Good,35,PM10,1
+Hyderabad,Good,45,"NO2, PM10, PM2.5",5
+Indore,Satisfactory,77,PM10,1
+Jabalpur,Satisfactory,88,PM10,1
+Jaipur,Moderate,105,PM10,2
+Jalandhar,Satisfactory,99,PM10,1
+Jind,Moderate,126,PM10,1
+Jodhpur,Moderate,150,PM2.5,1
+Kalaburgi,Good,28,PM10,1
+Kalyan,Good,37,PM2.5,1
+Kannur,Good,42,CO,1
+Kanpur,Satisfactory,82,"PM10, PM2.5",2
+Karnal,Moderate,111,PM10,1
+Katni,Moderate,110,PM10,1
+Khanna,Moderate,105,PM10,1
+Kochi,Good,32,CO,1
+Kohima,Good,45,PM10,1
+Kolar,Good,42,CO,1
+Kolkata,Satisfactory,62,"CO, PM10, PM2.5",5
+Kollam,Satisfactory,100,CO,1
+Koppal,Good,50,CO,1
+Kota,Satisfactory,65,PM10,1
+Kozhikode,Satisfactory,60,CO,1
+Kurukshetra,Moderate,145,PM10,1
+Lucknow,Satisfactory,81,"PM10, PM2.5",6
+Ludhiana,Moderate,112,PM10,1
+Maihar,Good,26,PM10,1
+Mandi Gobindgarh,Satisfactory,98,PM2.5,1
+Mandideep,Good,41,PM10,1
+Mandikhera,Satisfactory,61,PM10,1
+Manesar,Moderate,145,PM2.5,1
+Manglore,Satisfactory,84,NO2,1
+Medikeri,Good,29,O3,1
+Meerut,Moderate,158,PM10,2
+Moradabad,Moderate,163,PM10,1
+Mumbai,Satisfactory,56,"CO, PM10",18
+Muzaffarnagar,Moderate,159,PM10,1
+Muzaffarpur,Good,41,CO,1
+Naharlagun,Good,38,SO2,1
+Nandesari,Very Poor,311,PM2.5,1
+Nashik,Good,33,PM10,1
+Navi Mumbai,Satisfactory,72,"CO, PM10",3
+Noida,Moderate,162,PM10,2
+Pali,Satisfactory,89,PM10,1
+Palwal,Moderate,113,PM10,1
+Panchkula,Moderate,134,PM2.5,1
+Panipat,Moderate,171,PM10,1
+Patiala,Moderate,117,PM10,1
+Patna,Moderate,109,"O3, CO, PM10",5
+Pithampur,Satisfactory,68,PM10,1
+Prayagraj,Satisfactory,62,PM10,3
+Puducherry,Satisfactory,56,O3,1
+Pune,Satisfactory,89,"CO, NO2, PM2.5",5
+Raichur,Good,45,PM10,1
+Rajamahendravaram,Good,31,O3,1
+Ramanagara,Good,33,O3,1
+Ratlam,Satisfactory,52,PM10,1
+Rohtak,Satisfactory,85,PM2.5,1
+Rupnagar,Satisfactory,93,PM10,1
+Sagar,Good,27,PM2.5,1
+Satna,Satisfactory,54,PM10,1
+Shivamogga,Good,41,PM10,1
+Siliguri,Good,35,CO,1
+Singrauli,Satisfactory,78,PM10,1
+Sirsa,Moderate,130,PM10,1
+Sonipat,Good,48,PM2.5,1
+Srinagar,Satisfactory,73,PM2.5,1
+Talcher,Satisfactory,62,CO,1
+Thiruvananthapuram,Moderate,107,PM2.5,1
+Thoothukudi,Satisfactory,97,CO,1
+Tirupati,Good,39,CO,1
+Udaipur,Moderate,109,PM10,1
+Udupi,Moderate,112,O3,1
+Ujjain,Satisfactory,93,PM10,1
+Varanasi,Satisfactory,70,PM10,4
+Vatva,Satisfactory,100,PM10,1
+Visakhapatnam,Moderate,129,PM10,1
+Yadgir,Good,23,PM10,1
+Yamunanagar,Poor,286,PM2.5,1

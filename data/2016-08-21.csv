@@ -1,0 +1,23 @@
+city,level,index,pollutant,stations
+Agra,Good,37,PM2.5,1
+Ahmedabad,Satisfactory,96,PM2.5,1
+Bengaluru,Satisfactory,54,"CO, PM2.5",3
+Chennai,Satisfactory,74,"O3, PM2.5",2
+Delhi,Satisfactory,90,"PM10, PM2.5",6
+Faridabad,Satisfactory,58,CO,1
+Gaya,Satisfactory,60,PM2.5,1
+Hyderabad,Good,34,"PM10, PM2.5",2
+Kanpur,Satisfactory,64,PM2.5,1
+Kolkata,Satisfactory,75,PM10,1
+Lucknow,Good,44,"CO, PM2.5",3
+Mumbai,Satisfactory,62,PM10,1
+Nagpur,Satisfactory,73,NO2,1
+Nashik,Good,32,PM10,1
+Navi Mumbai,Satisfactory,54,CO,1
+Panchkula,Satisfactory,69,CO,1
+Patna,Satisfactory,84,PM2.5,1
+Pune,Satisfactory,96,CO,1
+Solapur,Moderate,121,CO,1
+Tirupati,Satisfactory,72,NO2,1
+Varanasi,Satisfactory,87,PM10,1
+Visakhapatnam,Moderate,106,PM10,1

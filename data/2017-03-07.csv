@@ -1,0 +1,35 @@
+city,level,index,pollutant,stations
+Agra,Moderate,175,PM2.5,1
+Ahmedabad,Poor,226,PM2.5,1
+Amritsar,Satisfactory,72,PM2.5,1
+Aurangabad,Moderate,122,O3,1
+Bengaluru,Satisfactory,56,"NO2, PM2.5",4
+Chandrapur,Moderate,113,PM10,2
+Chennai,Satisfactory,61,"CO, PM2.5",3
+Delhi,Poor,228,"PM10, PM2.5",9
+Durgapur,Moderate,177,PM10,1
+Faridabad,Poor,202,PM2.5,1
+Gaya,Moderate,191,PM2.5,1
+Gurgaon,Poor,227,PM2.5,1
+Haldia,Moderate,127,PM10,1
+Howrah,Severe,442,O3,1
+Hyderabad,Satisfactory,98,"O3, PM10",5
+Jaipur,Moderate,125,PM10,1
+Jodhpur,Poor,221,PM2.5,1
+Kanpur,Very Poor,342,PM2.5,1
+Kolkata,Moderate,152,PM10,2
+Lucknow,Poor,213,PM2.5,3
+Mumbai,Moderate,125,PM10,1
+Muzaffarpur,Poor,219,PM2.5,1
+Nagpur,Moderate,174,O3,1
+Nashik,Moderate,163,O3,1
+Navi Mumbai,Satisfactory,79,PM10,1
+Panchkula,Satisfactory,63,PM2.5,1
+Patna,Moderate,181,PM2.5,1
+Pune,Satisfactory,63,PM10,1
+Rohtak,Satisfactory,55,PM2.5,1
+Solapur,Moderate,111,PM10,1
+Thane,Moderate,165,PM2.5,1
+Tirupati,Moderate,105,NO2,1
+Varanasi,Moderate,192,PM10,1
+Visakhapatnam,Satisfactory,66,PM10,1

@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,315,PM2.5,1
+Ahmedabad,Poor,208,PM2.5,1
+Ajmer,Moderate,129,O3,1
+Amaravati,Moderate,132,PM10,1
+Amritsar,Moderate,121,PM10,1
+Asanol,Moderate,166,PM2.5,1
+Aurangabad,Moderate,102,PM2.5,1
+Baghpat,Very Poor,398,PM2.5,1
+Bathinda,Moderate,113,PM10,1
+Bengaluru,Satisfactory,91,"O3, NO2, PM10",8
+Bhiwadi,Poor,281,PM10,1
+Brajrajnagar,Moderate,108,PM10,1
+Bulandshahr,Very Poor,388,PM2.5,1
+Chandrapur,Moderate,144,"O3, PM10",2
+Chennai,Moderate,116,"CO, PM2.5",3
+Chikkaballapur,Satisfactory,90,PM10,1
+Delhi,Very Poor,366,"PM10, PM2.5",32
+Dewas,Moderate,102,PM10,1
+Durgapur,Moderate,104,PM10,1
+Gaya,Moderate,161,PM2.5,1
+Ghaziabad,Severe,415,PM2.5,1
+Greater Noida,Very Poor,362,PM2.5,1
+Gurugram,Severe,403,PM2.5,1
+Haldia,Moderate,143,PM10,1
+Hapur,Very Poor,396,PM2.5,1
+Howrah,Poor,226,PM2.5,2
+Hubballi,Satisfactory,85,PM10,1
+Hyderabad,Moderate,113,"PM10, PM2.5",5
+Jaipur,Moderate,190,"PM10, PM2.5",3
+Jalandhar,Poor,209,PM2.5,1
+Jodhpur,Poor,267,PM2.5,1
+Jorapokhar,Poor,224,PM10,1
+Kanpur,Severe,420,PM2.5,1
+Khanna,Moderate,139,PM10,1
+Kolkata,Moderate,191,PM2.5,1
+Kota,Satisfactory,97,PM10,1
+Lucknow,Very Poor,323,PM2.5,4
+Ludhiana,Moderate,158,PM2.5,1
+Mandi Gobindgarh,Moderate,104,PM10,1
+Mandideep,Moderate,150,O3,1
+Moradabad,Very Poor,331,PM2.5,1
+Muzaffarnagar,Very Poor,337,PM2.5,1
+Muzaffarpur,Poor,225,PM2.5,1
+Nagpur,Moderate,109,O3,1
+Nashik,Moderate,104,O3,1
+Navi Mumbai,Satisfactory,86,CO,1
+Noida,Very Poor,385,PM2.5,1
+Pali,Moderate,156,PM10,1
+Panchkula,Satisfactory,72,PM2.5,1
+Patiala,Moderate,117,PM10,1
+Patna,Poor,282,PM2.5,1
+Pithampur,Moderate,133,PM10,1
+Pune,Moderate,117,PM2.5,1
+Rajamahendravaram,Moderate,104,PM10,1
+Satna,Moderate,139,PM10,1
+Siliguri,Satisfactory,91,PM10,1
+Singrauli,Poor,239,PM2.5,1
+Solapur,Satisfactory,91,PM10,1
+Talcher,Moderate,125,PM2.5,1
+Thiruvananthapuram,Moderate,127,PM2.5,1
+Tirupati,Moderate,101,O3,1
+Udaipur,Satisfactory,85,PM10,1
+Ujjain,Moderate,158,O3,1
+Varanasi,Poor,284,PM10,1
+Vijayawada,Satisfactory,71,PM10,1
+Visakhapatnam,Moderate,147,O3,1

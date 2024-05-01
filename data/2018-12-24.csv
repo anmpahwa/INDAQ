@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Severe,421,PM2.5,1
+Ahmedabad,Moderate,141,PM2.5,1
+Ajmer,Moderate,137,PM10,1
+Alwar,Moderate,179,PM2.5,1
+Amaravati,Poor,205,PM2.5,1
+Amritsar,Moderate,147,PM2.5,1
+Asanol,Poor,247,PM2.5,1
+Aurangabad,Satisfactory,97,PM10,1
+Baghpat,Severe,427,PM2.5,1
+Bathinda,Moderate,110,PM10,1
+Bengaluru,Satisfactory,71,"O3, PM10, PM2.5",7
+Bhiwadi,Severe,425,PM2.5,1
+Brajrajnagar,Moderate,102,CO,1
+Bulandshahr,Severe,447,PM2.5,1
+Chandrapur,Moderate,133,"NO2, PM2.5",2
+Chennai,Moderate,125,"O3, PM2.5",3
+Chikkaballapur,Satisfactory,74,PM10,1
+Delhi,Severe,448,"PM10, PM2.5",34
+Dewas,Moderate,161,O3,1
+Durgapur,Moderate,149,PM10,1
+Faridabad,Severe,444,PM2.5,1
+Gaya,Very Poor,318,PM2.5,1
+Ghaziabad,Severe,456,PM10,1
+Greater Noida,Severe,450,PM2.5,1
+Gurugram,Very Poor,303,PM2.5,1
+Haldia,Moderate,148,PM10,1
+Howrah,Poor,300,PM2.5,2
+Hubballi,Satisfactory,83,PM10,1
+Hyderabad,Moderate,158,PM2.5,5
+Jaipur,Moderate,148,"PM10, PM2.5",2
+Jodhpur,Poor,250,PM2.5,1
+Kanpur,Very Poor,359,PM2.5,1
+Khanna,Moderate,154,PM10,1
+Kolkata,Very Poor,328,PM2.5,2
+Kota,Moderate,187,PM2.5,1
+Lucknow,Very Poor,334,PM2.5,4
+Ludhiana,Moderate,162,PM2.5,1
+Mandi Gobindgarh,Moderate,134,PM10,1
+Mandideep,Moderate,181,PM2.5,1
+Manesar,Very Poor,306,PM2.5,1
+Moradabad,Moderate,138,NO2,1
+Mumbai,Poor,220,PM2.5,1
+Muzaffarnagar,Very Poor,384,PM2.5,1
+Muzaffarpur,Very Poor,363,PM2.5,1
+Nagpur,Moderate,154,PM2.5,1
+Nashik,Poor,212,O3,1
+Navi Mumbai,Moderate,137,PM10,1
+Noida,Severe,464,PM2.5,2
+Pali,Moderate,111,PM10,1
+Panchkula,Moderate,140,PM2.5,1
+Patna,Very Poor,390,PM2.5,1
+Pithampur,Moderate,105,O3,1
+Pune,Moderate,178,PM2.5,1
+Rohtak,Poor,249,PM2.5,1
+Rupnagar,Moderate,144,PM2.5,1
+Satna,Moderate,167,PM10,1
+Siliguri,Moderate,170,PM2.5,1
+Singrauli,Very Poor,361,PM2.5,1
+Solapur,Moderate,158,PM10,1
+Thiruvananthapuram,Moderate,107,CO,1
+Tirupati,Moderate,131,PM2.5,1
+Udaipur,Moderate,173,PM10,1
+Ujjain,Moderate,198,PM2.5,1
+Varanasi,Very Poor,384,PM2.5,1
+Vijayawada,Satisfactory,73,PM10,1
+Visakhapatnam,Moderate,194,PM2.5,1

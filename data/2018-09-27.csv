@@ -1,0 +1,64 @@
+city,level,index,pollutant,stations
+Agra,Satisfactory,97,PM2.5,1
+Ahmedabad,Moderate,193,O3,1
+Ajmer,Satisfactory,86,PM10,1
+Alwar,Satisfactory,59,PM10,1
+Amaravati,Good,44,O3,1
+Amritsar,Satisfactory,91,PM10,1
+Asanol,Moderate,106,PM2.5,1
+Aurangabad,Satisfactory,82,O3,1
+Baghpat,Moderate,128,PM10,1
+Bathinda,Satisfactory,97,PM10,1
+Bengaluru,Satisfactory,65,"CO, PM10, PM2.5",6
+Bhiwadi,Poor,228,PM10,1
+Chandrapur,Moderate,108,PM10,2
+Chennai,Satisfactory,67,"CO, PM2.5",3
+Chikkaballapur,Good,47,NO2,1
+Delhi,Moderate,151,"PM10, PM2.5",32
+Dewas,Moderate,115,PM10,1
+Durgapur,Satisfactory,87,PM10,1
+Faridabad,Moderate,169,PM2.5,1
+Ghaziabad,Moderate,182,PM10,1
+Greater Noida,Poor,235,PM10,1
+Gurgaon,Moderate,185,PM2.5,1
+Haldia,Satisfactory,81,PM10,1
+Howrah,Moderate,116,"PM10, PM2.5",2
+Hubballi,Satisfactory,64,PM10,1
+Hyderabad,Satisfactory,82,"NO2, PM10, PM2.5",6
+Jaipur,Moderate,133,PM10,3
+Jalandhar,Good,48,PM2.5,1
+Jodhpur,Moderate,136,PM2.5,1
+Kanpur,Moderate,136,PM2.5,1
+Khanna,Satisfactory,60,PM10,1
+Kolkata,Moderate,101,PM2.5,1
+Kota,Moderate,105,PM10,1
+Lucknow,Moderate,155,"O3, PM2.5",4
+Ludhiana,Satisfactory,78,PM2.5,1
+Mandi Gobindgarh,Satisfactory,69,PM10,1
+Mandideep,Moderate,144,PM10,1
+Moradabad,Poor,218,PM2.5,1
+Mumbai,Satisfactory,71,CO,1
+Muzaffarnagar,Moderate,133,PM2.5,1
+Muzaffarpur,Moderate,111,PM2.5,1
+Nagpur,Satisfactory,92,PM10,1
+Nashik,Satisfactory,71,O3,1
+Navi Mumbai,Satisfactory,95,PM10,1
+Noida,Moderate,180,PM10,1
+Pali,Satisfactory,94,PM10,1
+Panchkula,Satisfactory,92,O3,1
+Patiala,Satisfactory,80,PM10,1
+Pithampur,Moderate,117,PM10,1
+Pune,Satisfactory,94,PM10,1
+Rajamahendravaram,Satisfactory,52,O3,1
+Rohtak,Moderate,101,PM2.5,1
+Rupnagar,Moderate,124,PM10,1
+Satna,Moderate,102,PM10,1
+Siliguri,Satisfactory,59,PM10,1
+Singrauli,Moderate,130,PM10,1
+Thiruvananthapuram,Satisfactory,59,O3,1
+Tirupati,Satisfactory,53,PM10,1
+Udaipur,Satisfactory,88,PM10,1
+Ujjain,Moderate,110,PM10,1
+Varanasi,Moderate,123,PM10,1
+Vijayawada,Satisfactory,59,PM10,1
+Visakhapatnam,Satisfactory,95,PM10,1

@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,353,PM2.5,1
+Ahmedabad,Poor,225,PM2.5,1
+Ajmer,Moderate,116,O3,1
+Alwar,Moderate,106,PM10,1
+Amaravati,Satisfactory,75,PM10,1
+Amritsar,Good,46,PM10,1
+Asanol,Poor,219,PM2.5,1
+Baghpat,Very Poor,348,PM2.5,1
+Bathinda,Moderate,125,PM10,1
+Bengaluru,Satisfactory,87,"PM10, PM2.5",10
+Bhiwadi,Very Poor,365,PM10,1
+Bulandshahr,Very Poor,353,PM2.5,1
+Chandrapur,Satisfactory,82,PM10,2
+Chennai,Satisfactory,64,"CO, PM2.5",3
+Chikkaballapur,Satisfactory,52,NO2,1
+Delhi,Very Poor,338,"PM10, PM2.5",34
+Dewas,Moderate,150,O3,1
+Durgapur,Moderate,123,PM10,1
+Faridabad,Very Poor,350,PM2.5,1
+Gaya,Very Poor,307,PM2.5,1
+Ghaziabad,Very Poor,334,PM2.5,1
+Greater Noida,Very Poor,351,PM2.5,1
+Gurugram,Very Poor,309,PM2.5,1
+Haldia,Satisfactory,72,PM10,1
+Hapur,Very Poor,356,PM2.5,1
+Hyderabad,Satisfactory,83,"PM10, PM2.5",6
+Jaipur,Moderate,145,"PM10, PM2.5",3
+Jalandhar,Moderate,162,PM2.5,1
+Jodhpur,Poor,213,PM2.5,1
+Jorapokhar,Poor,222,PM10,1
+Khanna,Moderate,146,PM2.5,1
+Kolkata,Satisfactory,73,PM2.5,1
+Kota,Moderate,162,PM2.5,1
+Lucknow,Very Poor,325,PM2.5,4
+Ludhiana,Moderate,126,PM2.5,1
+Mandi Gobindgarh,Moderate,171,PM10,1
+Mandideep,Poor,201,PM2.5,1
+Moradabad,Moderate,185,PM2.5,1
+Mumbai,Moderate,114,PM10,1
+Muzaffarnagar,Very Poor,327,PM2.5,1
+Muzaffarpur,Very Poor,318,PM2.5,1
+Nagpur,Satisfactory,75,PM10,1
+Nashik,Satisfactory,96,O3,1
+Navi Mumbai,Moderate,105,CO,1
+Noida,Very Poor,347,PM2.5,2
+Pali,Moderate,132,PM2.5,1
+Panchkula,Moderate,122,PM2.5,1
+Patiala,Moderate,134,PM10,1
+Patna,Very Poor,334,PM2.5,1
+Pithampur,Moderate,135,PM10,1
+Pune,Satisfactory,99,SO2,1
+Rajamahendravaram,Satisfactory,56,O3,1
+Rohtak,Moderate,187,PM2.5,1
+Satna,Moderate,136,PM10,1
+Siliguri,Moderate,193,PM2.5,1
+Singrauli,Poor,292,PM2.5,1
+Solapur,Satisfactory,89,NO2,1
+Talcher,Poor,253,PM10,1
+Thane,Moderate,112,PM10,1
+Thiruvananthapuram,Moderate,113,PM2.5,1
+Tirupati,Good,49,NO2,1
+Udaipur,Moderate,156,PM10,1
+Ujjain,Moderate,123,PM10,1
+Varanasi,Very Poor,307,PM2.5,1
+Vijayawada,Satisfactory,52,CO,1
+Visakhapatnam,Satisfactory,78,PM10,1

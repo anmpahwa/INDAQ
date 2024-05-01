@@ -1,0 +1,68 @@
+city,level,index,pollutant,stations
+Agra,Very Poor,336,NO2,1
+Ahmedabad,Poor,236,PM2.5,1
+Ajmer,Satisfactory,91,O3,1
+Alwar,Moderate,110,PM2.5,1
+Amaravati,Moderate,110,PM10,1
+Amritsar,Moderate,154,PM10,1
+Asanol,Good,34,O3,1
+Baghpat,Poor,293,PM2.5,1
+Bathinda,Moderate,108,PM10,1
+Bengaluru,Moderate,179,"O3, PM2.5",7
+Bhiwadi,Very Poor,398,PM10,1
+Bulandshahr,Poor,242,PM2.5,1
+Chandrapur,Satisfactory,89,PM10,2
+Chennai,Satisfactory,72,PM2.5,2
+Chikkaballapur,Moderate,113,PM10,1
+Delhi,Poor,262,"PM10, PM2.5",29
+Dewas,Moderate,135,PM10,1
+Durgapur,Satisfactory,74,NO2,1
+Faridabad,Very Poor,306,PM2.5,1
+Gaya,Satisfactory,74,PM2.5,1
+Ghaziabad,Very Poor,332,PM2.5,1
+Greater Noida,Poor,281,PM2.5,1
+Gurgaon,Very Poor,325,PM2.5,1
+Haldia,Good,32,PM10,1
+Howrah,Good,46,"O3, CO",2
+Hubballi,Moderate,118,PM2.5,1
+Hyderabad,Moderate,121,"PM10, PM2.5",5
+Jaipur,Moderate,131,"PM10, PM2.5",3
+Jalandhar,Moderate,144,PM2.5,1
+Jodhpur,Poor,245,PM2.5,1
+Jorapokhar,Moderate,112,PM10,1
+Kanpur,Moderate,114,PM2.5,1
+Khanna,Moderate,101,PM10,1
+Kolkata,Satisfactory,58,CO,1
+Kota,Moderate,153,PM10,1
+Lucknow,Moderate,108,PM2.5,3
+Ludhiana,Satisfactory,70,PM2.5,1
+Mandi Gobindgarh,Moderate,144,PM10,1
+Mandideep,Moderate,127,PM10,1
+Moradabad,Poor,205,PM2.5,1
+Mumbai,Moderate,144,PM10,1
+Muzaffarnagar,Poor,222,PM2.5,1
+Muzaffarpur,Satisfactory,68,CO,1
+Nagpur,Satisfactory,52,PM10,1
+Nashik,Satisfactory,99,PM10,1
+Navi Mumbai,Poor,282,PM10,1
+Noida,Poor,257,PM2.5,2
+Pali,Poor,210,PM2.5,1
+Panchkula,Satisfactory,79,O3,1
+Patiala,Moderate,105,PM2.5,1
+Pithampur,Moderate,144,PM10,1
+Pune,Moderate,122,PM2.5,1
+Rajamahendravaram,Satisfactory,92,O3,1
+Rohtak,Satisfactory,64,PM2.5,1
+Rupnagar,Satisfactory,66,PM10,1
+Satna,Satisfactory,80,CO,1
+Siliguri,Satisfactory,61,PM10,1
+Singrauli,Satisfactory,73,PM10,1
+Solapur,Satisfactory,98,CO,1
+Thane,Moderate,133,PM10,1
+Thiruvananthapuram,Satisfactory,66,PM10,1
+Tirupati,Moderate,103,PM10,1
+Udaipur,Moderate,119,PM10,1
+Ujjain,Moderate,168,O3,1
+Varanasi,Moderate,164,PM10,1
+Vijayawada,Good,47,PM10,1
+Visakhapatnam,Moderate,132,PM2.5,1

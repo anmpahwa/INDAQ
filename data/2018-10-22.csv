@@ -1,0 +1,67 @@
+city,level,index,pollutant,stations
+Agra,Poor,217,PM2.5,1
+Ahmedabad,Moderate,173,O3,1
+Ajmer,Moderate,111,PM10,1
+Alwar,Satisfactory,77,PM2.5,1
+Amritsar,Moderate,154,PM10,1
+Asanol,Poor,210,PM2.5,1
+Aurangabad,Satisfactory,90,PM2.5,1
+Baghpat,Poor,278,PM2.5,1
+Bathinda,Moderate,113,PM10,1
+Bengaluru,Satisfactory,90,"CO, PM10, PM2.5",7
+Bhiwadi,Poor,243,PM10,1
+Brajrajnagar,Moderate,130,PM10,1
+Bulandshahr,Very Poor,310,PM2.5,1
+Chandrapur,Moderate,146,PM10,2
+Chennai,Moderate,125,PM2.5,2
+Chikkaballapur,Satisfactory,89,PM10,1
+Delhi,Poor,272,"PM10, PM2.5",33
+Dewas,Moderate,128,O3,1
+Durgapur,Moderate,132,PM10,1
+Faridabad,Poor,291,PM2.5,1
+Gaya,Moderate,177,PM2.5,1
+Ghaziabad,Very Poor,314,PM2.5,1
+Greater Noida,Poor,276,PM2.5,1
+Gurugram,Poor,231,PM2.5,1
+Haldia,Moderate,126,PM10,1
+Howrah,Moderate,196,PM2.5,2
+Hubballi,Moderate,105,PM10,1
+Hyderabad,Moderate,124,"PM10, PM2.5",5
+Jaipur,Moderate,133,"PM10, PM2.5",3
+Jalandhar,Moderate,154,PM2.5,1
+Jodhpur,Poor,265,PM2.5,1
+Jorapokhar,Poor,294,PM10,1
+Kanpur,Poor,252,PM2.5,1
+Khanna,Moderate,134,PM10,1
+Kolkata,Poor,212,PM2.5,1
+Kota,Moderate,132,PM10,1
+Lucknow,Poor,249,PM2.5,3
+Ludhiana,Moderate,166,PM2.5,1
+Mandi Gobindgarh,Moderate,149,PM10,1
+Mandideep,Moderate,180,O3,1
+Moradabad,Moderate,187,O3,1
+Muzaffarnagar,Poor,284,PM2.5,1
+Muzaffarpur,Poor,229,PM2.5,1
+Nagpur,Satisfactory,94,PM10,1
+Nashik,Moderate,151,O3,1
+Navi Mumbai,Satisfactory,72,CO,1
+Noida,Poor,266,PM2.5,2
+Pali,Moderate,188,PM2.5,1
+Panchkula,Satisfactory,64,CO,1
+Pithampur,Moderate,121,O3,1
+Pune,Moderate,104,PM2.5,1
+Rajamahendravaram,Moderate,162,O3,1
+Rohtak,Satisfactory,66,PM2.5,1
+Rupnagar,Satisfactory,78,PM2.5,1
+Satna,Moderate,107,CO,1
+Siliguri,Moderate,101,PM10,1
+Singrauli,Moderate,179,PM2.5,1
+Solapur,Satisfactory,100,NO2,1
+Thane,Moderate,133,PM10,1
+Thiruvananthapuram,Satisfactory,59,CO,1
+Tirupati,Moderate,102,PM10,1
+Udaipur,Moderate,102,PM10,1
+Ujjain,Moderate,191,O3,1
+Varanasi,Poor,238,PM2.5,1
+Vijayawada,Satisfactory,71,PM10,1
+Visakhapatnam,Poor,244,PM2.5,1

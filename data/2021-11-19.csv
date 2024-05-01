@@ -1,0 +1,134 @@
+city,level,index,pollutant,stations
+Agartala,Moderate,111,PM2.5,1
+Agra,Poor,295,PM2.5,5
+Ahmedabad,Satisfactory,99,"PM10, PM2.5",9
+Aizawl,Good,44,SO2,1
+Ajmer,Moderate,155,PM2.5,1
+Alwar,Moderate,137,PM2.5,1
+Amaravati,Good,46,PM2.5,1
+Ambala,Poor,295,PM2.5,1
+Amritsar,Poor,261,PM2.5,1
+Ankleshwar,Moderate,186,PM2.5,1
+Asansol,Moderate,197,O3,1
+Aurangabad,Satisfactory,57,PM10,1
+Bagalkot,Good,49,PM2.5,1
+Baghpat,Very Poor,345,PM2.5,1
+Bahadurgarh,Very Poor,385,PM2.5,1
+Ballabgarh,Poor,203,PM10,1
+Bengaluru,Satisfactory,74,"CO, NO2, PM2.5",7
+Bhilai,Satisfactory,74,PM10,1
+Bhiwadi,Very Poor,323,PM2.5,1
+Bhiwani,Poor,261,PM2.5,1
+Bhopal,Poor,288,PM2.5,1
+Bidar,Good,50,CO,1
+Bilaspur,Satisfactory,70,PM10,1
+Brajrajnagar,Satisfactory,71,PM10,1
+Bulandshahr,Very Poor,347,PM2.5,1
+Chamarajanagar,Good,40,PM10,1
+Chandigarh,Moderate,150,"O3, PM10",2
+Chandrapur,Satisfactory,78,PM10,2
+Chennai,Good,39,"CO, SO2",8
+Chikkaballapur,Good,30,NO2,1
+Chikkamagaluru,Good,28,NO2,1
+Damoh,Poor,227,PM2.5,1
+Davanagere,Good,29,CO,1
+Delhi,Very Poor,380,"PM10, PM2.5",35
+Dewas,Satisfactory,90,PM10,1
+Dharuhera,Poor,273,PM2.5,1
+Durgapur,Very Poor,328,PM2.5,1
+Eloor,Good,49,CO,1
+Ernakulam,Satisfactory,71,CO,1
+Faridabad,Very Poor,352,PM10,3
+Fatehabad,Poor,273,PM2.5,1
+Firozabad,Poor,277,PM2.5,1
+Gandhinagar,Satisfactory,67,"PM10, PM2.5",3
+Gaya,Moderate,131,PM2.5,2
+Ghaziabad,Very Poor,377,"PM10, PM2.5",3
+Gorakhpur,Very Poor,309,PM2.5,1
+Greater Noida,Very Poor,382,"PM10, PM2.5",2
+Gurugram,Very Poor,324,PM2.5,4
+Guwahati,Moderate,136,PM2.5,2
+Gwalior,Moderate,132,"PM10, PM2.5",2
+Hajipur,Poor,246,PM2.5,1
+Haldia,Moderate,113,PM10,1
+Hapur,Very Poor,374,PM2.5,1
+Hisar,Very Poor,366,PM2.5,1
+Howrah,Poor,204,PM2.5,3
+Hubballi,Good,48,PM10,1
+Hyderabad,Satisfactory,69,"PM10, PM2.5",5
+Indore,Poor,225,PM2.5,1
+Jabalpur,Poor,235,PM2.5,1
+Jaipur,Poor,214,PM2.5,2
+Jalandhar,Poor,239,PM2.5,1
+Jodhpur,Poor,228,PM2.5,1
+Kaithal,Poor,210,PM2.5,1
+Kalaburgi,Satisfactory,69,PM10,1
+Kanpur,Poor,277,PM2.5,3
+Katni,Very Poor,303,PM2.5,1
+Khanna,Moderate,148,PM2.5,1
+Kochi,Moderate,112,PM2.5,1
+Kohima,Satisfactory,63,PM10,1
+Kolkata,Moderate,157,"PM10, PM2.5",6
+Kollam,Satisfactory,62,PM10,1
+Koppal,Satisfactory,53,O3,1
+Kota,Poor,239,PM2.5,1
+Kozhikode,Satisfactory,51,PM10,1
+Kurukshetra,Poor,259,PM2.5,1
+Lucknow,Poor,255,PM2.5,6
+Ludhiana,Poor,205,PM2.5,1
+Mandi Gobindgarh,Moderate,169,PM10,1
+Mandideep,Moderate,133,PM2.5,1
+Mandikhera,Moderate,103,CO,1
+Manesar,Very Poor,335,PM2.5,1
+Manglore,Satisfactory,96,PM10,1
+Medikeri,Good,19,O3,1
+Meerut,Very Poor,361,PM2.5,3
+Moradabad,Poor,280,PM2.5,2
+Motihari,Very Poor,342,PM2.5,1
+Mumbai,Satisfactory,84,"CO, PM10, PM2.5",18
+Munger,Poor,265,PM2.5,1
+Muzaffarnagar,Poor,259,PM2.5,1
+Muzaffarpur,Very Poor,305,"PM10, PM2.5",3
+Naharlagun,Moderate,175,O3,1
+Narnaul,Very Poor,318,PM2.5,1
+Nashik,Good,43,PM2.5,1
+Navi Mumbai,Satisfactory,76,"PM10, PM2.5",3
+Noida,Very Poor,376,"PM10, PM2.5",4
+Pali,Poor,222,PM2.5,1
+Palwal,Satisfactory,82,PM10,1
+Panchkula,Moderate,144,PM2.5,1
+Panipat,Very Poor,350,PM10,1
+Patiala,Moderate,180,PM2.5,1
+Patna,Poor,267,"PM10, PM2.5",5
+Pithampur,Moderate,194,PM2.5,1
+Prayagraj,Poor,250,PM2.5,3
+Pune,Satisfactory,91,"CO, SO2",2
+Raichur,Satisfactory,83,PM10,1
+Rajamahendravaram,Satisfactory,76,PM2.5,1
+Ramanagara,Good,35,O3,1
+Ratlam,Moderate,135,PM2.5,1
+Rohtak,Very Poor,337,PM2.5,1
+Rupnagar,Moderate,148,PM10,1
+Sagar,Moderate,105,PM2.5,1
+Sasaram,Poor,213,PM2.5,1
+Satna,Satisfactory,68,PM10,1
+Siliguri,Moderate,112,PM10,1
+Singrauli,Very Poor,311,PM2.5,1
+Sirsa,Poor,238,PM2.5,1
+Solapur,Satisfactory,75,PM10,1
+Sonipat,Poor,299,PM2.5,1
+Srinagar,Moderate,110,PM10,1
+Talcher,Satisfactory,74,PM10,1
+Thane,Moderate,111,PM10,1
+Thiruvananthapuram,Satisfactory,56,"CO, PM10",2
+Thoothukudi,Good,49,PM10,1
+Thrissur,Good,45,PM10,1
+Tirupati,Good,37,CO,1
+Udaipur,Moderate,123,PM2.5,1
+Ujjain,Moderate,141,PM2.5,1
+Varanasi,Poor,255,PM2.5,4
+Vatva,Moderate,141,PM2.5,1
+Vijayapura,Satisfactory,56,PM10,1
+Visakhapatnam,Moderate,153,PM2.5,1
+Vrindavan,Poor,298,PM2.5,1
+Yamunanagar,Poor,276,PM2.5,1
