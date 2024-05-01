@@ -60,7 +60,7 @@ function fetch_report(; date::Date)
     end
     CSV.write(csv, df)
     run(`git -C $dir add $csv`)
-    run(`git -C $dir commit -m add $date AQI bulletin report`)
+    run(`git -C $dir commit -m "add $date AQI bulletin report"`)
     run(`git -C $dir push origin main`)
     # return
     return
