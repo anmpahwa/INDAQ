@@ -13,7 +13,7 @@ function store()
     m = parse(Int, f[6:7])
     d = parse(Int, f[9:10])
     # fetch new report(s)
-    tₒ = (Date(y, m, d) - today()).value
+    tₒ = (today() - Date(y, m, d)).value
     t  = Date(y, m, d)
     for _ ∈ 1:tₒ 
         t += Day(1)
@@ -146,7 +146,7 @@ function index(; cities::Vector{String}, startdate::Date, enddate::Date)
     # save plot
     savefig(plt, figure)
     run(`git -C $dir add $figure`)
-    run(`git -C $dir commit -m update index.html`)
+    run(`git -C $dir commit -m "update index.html"`)
     run(`git -C $dir push origin main`)
     return plt
 end
@@ -278,7 +278,7 @@ function level(; cities::Vector{String}, startdate::Date, enddate::Date)
     # save plot
     savefig(plt, "$dir/plots/level.html")
     run(`git -C $dir add $figure`)
-    run(`git -C $dir commit -m update level.html`)
+    run(`git -C $dir commit -m "update level.html"`)
     run(`git -C $dir push origin main`)
     return plt
 end
@@ -413,7 +413,7 @@ function pollutant(; cities::Vector{String}, startdate::Date, enddate::Date)
     # save plot
     savefig(plt, "$dir/plots/pollutant.html")
     run(`git -C $dir add $figure`)
-    run(`git -C $dir commit -m update pollutant.html`)
+    run(`git -C $dir commit -m "update pollutant.html"`)
     run(`git -C $dir push origin main`)
     return plt
 end
