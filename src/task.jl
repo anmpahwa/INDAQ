@@ -474,13 +474,13 @@ let
 
     println("Task 3: developing a multi-city air quality level plot")
     tₛ = Date(2016)
-    tₑ = Date(Year(today()))-Day(1)
+    tₑ = today()
     level(cities=C, startdate=tₛ, enddate=tₑ)
     sleep(5)
 
     println("Task 4: developing a multi-city prominent pollutant plot")
     tₛ = Date(2016)
-    tₑ = Date(Year(today()))-Day(1)
+    tₑ = today()
     pollutant(cities=C, startdate=tₛ, enddate=tₑ)
     sleep(5)
 end
