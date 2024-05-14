@@ -183,7 +183,7 @@ function level(; cities::Vector{String}, startdate::Date, enddate::Date)
                 showline=true,
                 linecolor="#001428",
                 title="<b>year</b>",
-                tickvals=Year(tₛ).value:Year(tₑ).value,
+                tickvals=(Year(tₛ).value:Year(tₑ).value).-2000,
             ),
         yaxis=
             attr(
@@ -211,7 +211,7 @@ function level(; cities::Vector{String}, startdate::Date, enddate::Date)
             attr(
                 text="<i>Source: <a href=https://cpcb.nic.in/>CPCB, GoI</a></i>",
                 x=0, 
-                y=-0.127,    
+                y=-0.123,    
                 xref="paper",
                 yref="paper",
                 showarrow=false,
@@ -227,7 +227,7 @@ function level(; cities::Vector{String}, startdate::Date, enddate::Date)
     β  = [[isequal(i,k) for i ∈ C for j ∈ L] for k ∈ C]
     tₒ = (tₑ - tₛ).value + 1
     for (i, c) ∈ enumerate(C)
-        X = [y for y ∈ yₛ:yₑ]
+        X = [y for y ∈ yₛ:yₑ].-2000
         Y = [zeros(eachindex(X)) for _ ∈ eachindex(L)]
         t = tₛ
         # for a given city, fetch data
@@ -315,7 +315,7 @@ function pollutant(; cities::Vector{String}, startdate::Date, enddate::Date)
                 showline=true,
                 linecolor="#001428",
                 title="<b>year</b>",
-                tickvals=Year(tₛ).value:Year(tₑ).value,
+                tickvals=tickvals=(Year(tₛ).value:Year(tₑ).value).-2000,
             ),
         yaxis=
             attr(
@@ -343,7 +343,7 @@ function pollutant(; cities::Vector{String}, startdate::Date, enddate::Date)
             attr(
                 text="<i>Source: <a href=https://cpcb.nic.in/>CPCB, GoI</a></i>",
                 x=0, 
-                y=-0.127,    
+                y=-0.123,    
                 xref="paper",
                 yref="paper",
                 showarrow=false,
@@ -360,7 +360,7 @@ function pollutant(; cities::Vector{String}, startdate::Date, enddate::Date)
     β  = [[isequal(i,k) for i ∈ C for j ∈ L] for k ∈ C]
     tₒ = (tₑ - tₛ).value + 1
     for (i, c) ∈ enumerate(C)
-        X = [y for y ∈ yₛ:yₑ]
+        X = [y for y ∈ yₛ:yₑ].-2000
         Y = [zeros(eachindex(X)) for _ ∈ eachindex(L)]
         t = tₛ
         # for a given city, fetch data
