@@ -1,1 +1,8 @@
 #TODO: Develop README.md as a blog
+
+
+<div class="l-page">
+  <iframe src="https://github.com/anmolpahwa/INDAQ/raw/main/plots/index.html" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="https://github.com/anmolpahwa/INDAQ/raw/main/plots/level.html" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="https://github.com/anmolpahwa/INDAQ/raw/main/plots/pollutant.html" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+</div>
