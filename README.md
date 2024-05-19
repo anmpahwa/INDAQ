@@ -28,10 +28,10 @@ $$
 
 where:
 
-- $$ \text{AQI}_{\text{p}} $$ is the AQI for pollutant $$ p $$.
-- $$ \text{C}_{\text{p}} $$ is the concentration of pollutant $$ p $$.
-- $$ \text{C}_{\text{high}} $$ and $$ \text{C}_{\text{low}} $$ are the concentration breakpoints that bracket $$ \text{C}_{\text{p}} $$.
-- $$ \text{I}_{\text{high}} $$ and $$ \text{I}_{\text{low}}
+$$ \text{AQI}_ \text{p} $$ is the AQI for pollutant $$ p $$.
+$$ \text{C}_ \text{p} $$ is the concentration of pollutant $$ p $$.
+$$ \text{C}_ \text{high} $$ and $$ \text{C}_ \text{low} $$ are the concentration breakpoints that bracket $$ \text{C}_ \text{p} $$.
+$$ \text{I}_ \text{high} $$ and $$ \text{I}_ \text{low} $$ are the AQI breakpoints corresponding to $$ \text{C}_ \text{high} $$ and $$ \text{C}_ \text{low} $$.
 
 <div class="l-page">
   <iframe
