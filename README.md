@@ -4,15 +4,7 @@ Monitor daily air quality updates to index, level, and prominent pollutant acros
 
 Air Quality is a crucial tool to communicate the quality of air in a given area, indicating the level of pollution and its potential impact on public health. It is calculated based on the concentrations of eight prominent pollutants, namely, Particulate Matter (PM<sub>10</sub> and PM<sub>2.5</sub>), Nitrogen Dioxide (NO<sub>2</sub>), Sulfur Dioxide (SO<sub>2</sub>), Carbon Monoxide (CO), Ozone (O<sub>3</sub>), Ammonia (NH<sub>3</sub>), and Lead (Pb). The estimation procedure involves continuous monitoring of these pollutants using a network of air quality monitoring stations across the country. Each pollutant's concentration is measured and then converted into a normalized index value using standard formulas and breakpoint tables provided by the Central Pollution Control Board (CPCB). The highest index value among the pollutants determines the overall AQI for that location. This value is then categorized into six levels—ranging from 'Good' to 'Severe'—to convey the health implications effectively to the public, aiding in the adoption of necessary precautio nary measures and policy decisions aimed at improving air quality.
 
-<div class="l-page">
-  <iframe
-    src="{{ '/assets/plotly/index.html' | relative_url }}"
-    frameborder="0"
-    scrolling="no"
-    height="455"
-    width="800"
-  ></iframe>
-</div>
+![Local Image](plots/index.png "Index")
 
 **Figure.** Air quality index across different cities in India
 
@@ -33,15 +25,7 @@ where:
 - $\text{C}_ \text{high}$ and $\text{C}_ \text{low}$ are the concentration breakpoints that bracket $\text{C}_ \text{p}$.
 - $\text{I}_ \text{high}$ and $\text{I}_ \text{low}$ are the AQI breakpoints corresponding to $\text{C}_ \text{high}$ and $\text{C}_ \text{low}$.
 
-<div class="l-page">
-  <iframe
-    src="{{ '/assets/plotly/level.html' | relative_url }}"
-    frameborder="0"
-    scrolling="no"
-    height="605"
-    width="450"
-  ></iframe>
-</div>
+![Local Image](plots/level.png "Level")
 
 **Figure.** Air quality level across different cities in India
 
@@ -58,14 +42,6 @@ where:
 
 <sup>CO in mg/m<sup>3</sup> and other pollutants in μg/m<sup>3</sup>; 24-hourly average values for PM<sub>10</sub>, PM<sub>2.5</sub>, NO<sub>2</sub>,SO<sub>2</sub>, NH<sub>3</sub>, and Pb, and 8-hourly values for CO and O<sub>3</sub>.</sup>
 
-<div class="l-page">
-  <iframe
-    src="{{ '/assets/plotly/pollutant.html' | relative_url }}"
-    frameborder="0"
-    scrolling="no"
-    height="605"
-    width="450"
-  ></iframe>
-</div>
+![Local Image](plots/pollutant.png "Prominent Pollutant")
 
 **Figure.** Prominent pollutant across different cities in India
