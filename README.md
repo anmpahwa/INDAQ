@@ -18,15 +18,13 @@ Air Quality is a crucial tool to communicate the quality of air in a given area,
 
 The Air Quality Index (AQI) is given by:
 
-\begin{equation}
-\label{eq:aqi}
+$$
 \text{AQI} = \max(\text{AQI}_ \text{PM2.5}, \text{AQI}_ \text{PM10}, \text{AQI}_ \text{NO2}, \text{AQI}_ \text{SO2}, \text{AQI}_ \text{O3}, \text{AQI}_ \text{NH3})
-\end{equation}
+$$
 
-\begin{equation}
-\label{eq:aqip}
+$$
 \text{AQI}_ \text{p} = \frac{(\text{I}_ \text{high} - \text{I}_ \text{low})}{(\text{C}_ \text{high} - \text{C}_ \text{low})} \times (\text{C}_ \text{p} - \text{C}_ \text{low}) + \text{I}_ \text{low}
-\end{equation}
+$$
 
 where:
 
