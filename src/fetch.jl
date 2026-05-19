@@ -1,6 +1,7 @@
 using CSV
 using Dates
 using DataFrames
+using Downloads
 using Git
 using PlotlyJS
 using PyCall
@@ -18,9 +19,18 @@ function fetch_report(; date::Date)
     println(date)
     # fetch table
     tabula = pyimport("tabula")
-    url = "https://cpcb.nic.in//upload/Downloads/AQI_Bulletin_$(replace(string(date), "-" => "")).pdf"
+    url = "https://cpcb.nic.in/upload/Downloads/AQI_Bulletin_$(replace(string(date), "-" => "")).pdf"
+    pdf = "$dir/data/AQI_Bulletin_$date.pdf"
     csv = "$dir/data/$date.csv"
-    try df = tabula.convert_into(url, csv, lattice=true, output_format="csv", pages="all")
+    try
+        Downloads.download(url, pdf)
+        tabula.convert_into(
+            pdf,
+            csv;
+            lattice=true,
+            output_format="csv",
+            pages="all"
+        )
     catch
         if date > today(tz"UTC+0530")
             error("ArgumentError: AQI bulletin report for $date will be made available after 5pm $date IST (UTC+05:30).")
@@ -28,7 +38,7 @@ function fetch_report(; date::Date)
             error("LoadError: Visit https://cpcb.nic.in for more details")
         elseif DateTime(now(tz"UTC+0530")) < DateTime(today(tz"UTC+0530")) + Hour(17)
             error("ArgumentError: AQI bulletin report for $date will be made available after 5pm $date IST (UTC+05:30).")
-        else 
+        else
             error("LoadError: Visit https://cpcb.nic.in for more details")
         end
     end
